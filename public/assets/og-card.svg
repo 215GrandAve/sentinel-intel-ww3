@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060810"/>
+      <stop offset="100%" stop-color="#0c0f1a"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd000"/>
+      <stop offset="55%" stop-color="#ff6b00"/>
+      <stop offset="100%" stop-color="#ff2233"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="960" cy="158" r="180" fill="#aa44ff" opacity="0.08"/>
+  <circle cx="1080" cy="80" r="180" fill="#ff2233" opacity="0.08"/>
+  <rect x="60" y="58" width="1080" height="514" rx="24" fill="#0c0f1a" stroke="#1a1f35" stroke-width="3"/>
+  <text x="96" y="132" font-family="monospace" font-size="24" fill="#8f9abc" letter-spacing="6">SENTINEL</text>
+  <text x="96" y="220" font-family="Arial Black, sans-serif" font-size="84" fill="#ff2233" letter-spacing="8">WW3 BAROMETER</text>
+  <text x="96" y="280" font-family="Arial, sans-serif" font-size="28" fill="#e8ecff">Signal dashboard tracking military, financial, geopolitical, and interpretive escalation variables.</text>
+  <rect x="96" y="340" width="620" height="18" rx="9" fill="#172038"/>
+  <rect x="96" y="340" width="520" height="18" rx="9" fill="url(#bar)"/>
+  <text x="96" y="430" font-family="Arial Black, sans-serif" font-size="160" fill="#ff2233">84</text>
+  <text x="258" y="430" font-family="monospace" font-size="36" fill="#8f9abc">/100</text>
+  <text x="96" y="486" font-family="Arial Black, sans-serif" font-size="48" fill="#ff6b00" letter-spacing="4">SEVERE / CRITICAL</text>
+  <text x="96" y="530" font-family="Arial, sans-serif" font-size="26" fill="#ffd000">Built to inform, not persuade.</text>
+</svg>

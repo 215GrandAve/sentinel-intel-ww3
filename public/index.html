@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sentinel — WW3 Barometer</title>
+  <meta name="description" content="Live signal dashboard tracking military, financial, geopolitical, and theological escalation variables. Built to inform, not persuade.">
+  <meta property="og:title" content="Sentinel — WW3 Barometer">
+  <meta property="og:description" content="Signal-driven escalation dashboard. Verified events, analytical assessments, interpretive signals, and market data — labeled separately.">
+  <meta property="og:image" content="assets/og-card.png">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Sentinel — WW3 Barometer">
+  <meta name="twitter:description" content="Built to inform, not persuade.">
+  <meta name="twitter:image" content="assets/og-card.png">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Bebas+Neue&family=DM+Sans:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="dashboard">
+  <div class="scanline"></div>
+
+  <header class="site-header shell">
+    <div class="header-left brand-lockup">
+      <a class="brand" href="index.html">
+        <span class="brand-title">WW3 BAROMETER</span>
+        <span class="brand-subtitle-head">THINK TANK VENTURES // SENTINEL INTELLIGENCE LAYER // V4.0</span>
+      </a>
+    </div>
+    <div class="header-right">
+      <div id="dayBadge" class="day-badge">DAY 12</div>
+      <div id="headerTimestamp" class="version">MARCH 12, 2026 // 09:00 ET</div>
+    </div>
+  </header>
+
+  <main class="shell page-dashboard">
+
+    <!-- ALERT BANNER -->
+    <section class="hero-panel">
+      <div class="alert-banner">
+        <div class="alert-dot"></div>
+        <div id="alertTape" class="alert-text">LOADING…</div>
+        <div class="alert-dot"></div>
+      </div>
+
+      <!-- SCORE SECTION -->
+      <div class="score-section">
+        <div class="score-dial-wrap">
+          <svg class="score-dial" viewBox="0 0 220 220" aria-hidden="true">
+            <defs>
+              <linearGradient id="scoreDialGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#ffd000"></stop>
+                <stop offset="60%" stop-color="#ff6b00"></stop>
+                <stop offset="100%" stop-color="#ff2233"></stop>
+              </linearGradient>
+            </defs>
+            <circle cx="110" cy="110" r="92" class="score-track"></circle>
+            <circle id="scoreArc" cx="110" cy="110" r="92" class="score-arc"></circle>
+          </svg>
+          <div class="score-center">
+            <div id="scoreNumber" class="score-number">0</div>
+            <div class="score-label">/ 100</div>
+          </div>
+        </div>
+
+        <div class="score-meta">
+          <div id="heroStatus" class="score-status">LOADING…</div>
+          <div id="heroSubheadline" class="score-sublabel"></div>
+          <div class="score-change"><span id="scoreDelta">—</span> <span id="scoreChangeText"></span></div>
+          <div id="summaryDescription" class="score-desc"></div>
+          <div class="compact-meta">
+            <div class="meta-block">
+              <span class="meta-label">Last updated</span>
+              <span id="lastUpdated" class="meta-value">—</span>
+            </div>
+            <div class="meta-block">
+              <span class="meta-label">Next scheduled refresh</span>
+              <span id="nextUpdate" class="meta-value">—</span>
+            </div>
+            <div class="meta-block">
+              <span class="meta-label">Confidence</span>
+              <span id="scoreConfidence" class="meta-value">—</span>
+            </div>
+          </div>
+          <div id="snapshotNotice" class="snapshot-notice is-hidden"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CHANGELOG -->
+    <section class="panel panel-tight">
+      <div class="section-title">What Changed Since Last Update</div>
+      <div id="changelog" class="change-strip"></div>
+    </section>
+
+    <!-- VECTORS + INTEL -->
+    <section class="main-grid">
+      <div class="grid-section">
+        <div class="section-title">Vector Analysis</div>
+        <div id="vectors" class="vector-list"></div>
+      </div>
+      <div class="grid-section">
+        <div class="section-title">Live Intel — Current Snapshot</div>
+        <div id="intelCards" class="intel-grid"></div>
+      </div>
+    </section>
+
+    <!-- NETANYAHU MESSIAH DOCTRINE -->
+    <section class="full-section">
+      <div id="doctrineTitle" class="section-title">Netanyahu Messiah Doctrine — Fully Documented</div>
+      <div class="messiah-box">
+        <div id="doctrineQuote" class="messiah-quote"></div>
+        <div id="doctrineSource" class="messiah-source"></div>
+      </div>
+      <div id="doctrineCards" class="doctrine-grid"></div>
+    </section>
+
+    <!-- THEOLOGICAL COMMAND AXIS -->
+    <section class="full-section">
+      <div id="axisTitle" class="section-title">Theological Command Axis — Fully Mapped</div>
+      <div id="axisChain" class="axis-chain"></div>
+    </section>
+
+    <!-- FOUR-TRADITION CONVERGENCE -->
+    <section class="full-section">
+      <div id="traditionsTitle" class="section-title">Four-Tradition Theological Convergence</div>
+      <table class="theo-table">
+        <thead><tr><th>Tradition</th><th>Status</th><th>Key Signal</th></tr></thead>
+        <tbody id="traditionsBody"></tbody>
+      </table>
+    </section>
+
+    <!-- RAMADAN OVERLAY -->
+    <section class="ramadan-section">
+      <div id="overlayTitle" class="ramadan-title">RAMADAN 1447 OVERLAY</div>
+      <div id="overlaySubtitle" class="ramadan-subtitle"></div>
+      <div id="overlayTimeline" class="ramadan-timeline"></div>
+      <div id="overlayDescription" class="overlay-copy"></div>
+    </section>
+
+    <!-- INFO WARFARE + MARKET -->
+    <section class="main-grid">
+      <div class="grid-section">
+        <div id="infoWarfareTitle" class="section-title">Information Warfare — New Vector</div>
+        <div id="infoWarfareCards" class="intel-grid"></div>
+      </div>
+      <div class="grid-section">
+        <div class="section-title">Market Snapshot</div>
+        <div id="marketData" class="market-sections"></div>
+      </div>
+    </section>
+
+    <!-- ESCALATION TRIGGERS -->
+    <section class="full-section">
+      <div class="section-title">Escalation Triggers — Any Single One Tips to 90+</div>
+      <div id="triggers" class="trigger-grid"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer shell">
+    <div class="footer-left">
+      <div id="footerVersion" class="footer-brand">SENTINEL // WW3 BAROMETER</div>
+    </div>
+    <div class="footer-right-wrap">
+      <div id="nextThreshold" class="next-threshold">NEXT THRESHOLD: 90 / CRITICAL</div>
+      <div id="footerWatch" class="footer-right">WATCHING FOR 90</div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+{
+  "snapshots": [
+    {
+      "file": "2026-03-12-0900.json",
+      "last_updated": "2026-03-12T09:00:00-04:00",
+      "score": 84,
+      "delta": 5,
+      "status": "SEVERE / CRITICAL",
+      "summary": "Five vectors converging simultaneously; theological and market layers both elevated.",
+      "top_drivers": [
+        "Multi-front escalation",
+        "Bank targeting + Hormuz",
+        "Messiah doctrine + Ramadan overlay"
+      ]
+    },
+    {
+      "file": "2026-03-07-0900.json",
+      "last_updated": "2026-03-07T09:00:00-05:00",
+      "score": 79,
+      "delta": 8,
+      "status": "HIGH / SEVERE",
+      "summary": "Threshold watch intensified as sacred-site, military, and financial variables synchronized.",
+      "top_drivers": [
+        "Military acceleration",
+        "Sacred-site sensitivity",
+        "Financial escalation rhetoric"
+      ]
+    }
+  ]
+}

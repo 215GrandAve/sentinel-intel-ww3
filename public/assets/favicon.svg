@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Sentinel favicon">
+  <rect width="256" height="256" rx="40" fill="#060810"/>
+  <rect x="26" y="26" width="204" height="204" rx="30" fill="#0c0f1a" stroke="#1a1f35" stroke-width="8"/>
+  <path d="M128 48l54 24v40c0 48-26 83-54 96-28-13-54-48-54-96V72l54-24z" fill="none" stroke="#ff2233" stroke-width="14"/>
+  <path d="M128 88v72" stroke="#ffd000" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="128" cy="174" r="8" fill="#aa44ff"/>
+</svg>

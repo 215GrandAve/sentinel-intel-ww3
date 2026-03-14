@@ -1,0 +1,7 @@
+{
+  "timezone": "America/New_York",
+  "publish_times": ["06:00", "18:00"],
+  "llm_provider": "none",
+  "anthropic_model": "claude-sonnet-4-5",
+  "openai_model": "gpt-5.4"
+}

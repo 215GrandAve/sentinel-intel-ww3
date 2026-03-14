@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-03-12T17:45:00-04:00",
+  "summary_append": "Draft packet proposes a sharper market and chokepoint emphasis for the evening publish.",
+  "changelog": [
+    "Evening review packet loaded.",
+    "Chokepoint language and market stress cues reviewed for possible upgrade."
+  ],
+  "vector_updates": {
+    "Financial / Economic": {
+      "score": 87,
+      "delta": 13,
+      "driver": "Hormuz closure risk + market repricing",
+      "note": "Evening packet leans harder into chokepoint and bank-system stress."
+    },
+    "Information Warfare": {
+      "score": 81,
+      "delta": 5,
+      "driver": "Narrative battlespace intensifying",
+      "note": "Platform and information pressure remain elevated."
+    }
+  },
+  "intel_cards": [
+    {
+      "title": "Evening packet — market stress cues intensify",
+      "timestamp": "2026-03-12T17:45:00-04:00",
+      "timestamp_label": "▲ REVIEW // 17:45 ET",
+      "class": "ASSESSMENT",
+      "severity": "HIGH",
+      "confidence": "MODERATE",
+      "summary": "Review packet flags an evening increase in energy and financial stress language ahead of the next scheduled publish window.",
+      "source_label": "Review packet",
+      "source_url": "https://example.com/source/review-packet",
+      "source_type": "internal packet",
+      "published_at": "2026-03-12T17:45:00-04:00",
+      "retrieved_at": "2026-03-12T17:45:00-04:00",
+      "analyst_note": "Draft-only until approved."
+    }
+  ]
+}

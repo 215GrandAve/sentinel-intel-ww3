@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Methodology — Sentinel</title>
+  <meta name="description" content="Methodology for the Sentinel WW3 Barometer scoring system." />
+  <meta property="og:title" content="Methodology — Sentinel" />
+  <meta property="og:description" content="How the score works, how classes are defined, and how publishing is reviewed." />
+  <meta property="og:image" content="assets/og-card.png" />
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Bebas+Neue&family=DM+Sans:wght@300;400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="methodology">
+  <div class="scanline"></div>
+  <header class="site-header shell">
+    <div class="brand-lockup">
+      <a class="brand" href="index.html">
+        <span class="brand-kicker">SENTINEL</span>
+        <span class="brand-title">WW3 BAROMETER</span>
+      </a>
+      <p class="brand-subtitle">Methodology / publishing logic / class definitions</p>
+    </div>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="index.html">Dashboard</a>
+      <a class="is-active" href="methodology.html">Methodology</a>
+      <a href="archive.html">Archive</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="shell prose-page">
+    <section class="panel panel-highlight">
+      <div class="section-heading">
+        <span class="eyebrow">Methodology</span>
+        <h1>How the barometer works</h1>
+      </div>
+      <p class="copy large">This dashboard tracks escalation through four labeled layers: verified events, analytical assessments, interpretive signals, and structured market data. It exists to inform, not persuade.</p>
+    </section>
+
+    <section class="panel prose-section">
+      <h2>Score logic</h2>
+      <p>The headline score is a weighted synthesis of vectors. Each vector receives a score, a change value, a confidence label, and a plain-language primary driver. The final score is rounded and expressed as an index out of 100.</p>
+      <p>Status labels follow threshold bands:</p>
+      <ul>
+        <li>0–39: Low / Watch</li>
+        <li>40–59: Elevated</li>
+        <li>60–74: High</li>
+        <li>75–89: Severe / Critical</li>
+        <li>90–100: Threshold / Extreme</li>
+      </ul>
+    </section>
+
+    <section class="panel prose-section">
+      <h2>Content classes</h2>
+      <div class="badge-row">
+        <span class="class-badge class-verified">Verified</span>
+        <span class="class-badge class-assessment">Assessment</span>
+        <span class="class-badge class-interpretive">Interpretive</span>
+        <span class="class-badge class-data">Data</span>
+      </div>
+      <p><strong>Verified</strong> covers sourced events, actions, statements, or datapoints. <strong>Assessment</strong> covers analytical interpretation of what those signals may mean. <strong>Interpretive</strong> covers theological, symbolic, or worldview-based significance. <strong>Data</strong> covers structured market or macro inputs.</p>
+    </section>
+
+    <section class="panel prose-section">
+      <h2>Confidence model</h2>
+      <p>Each card or vector carries one of three confidence tags:</p>
+      <ul>
+        <li><strong>High</strong> — multiple credible confirmations or strong direct sourcing.</li>
+        <li><strong>Moderate</strong> — one credible source or a narrower evidence chain.</li>
+        <li><strong>Low</strong> — speculative, thinly sourced, or provisional.</li>
+      </ul>
+    </section>
+
+    <section class="panel prose-section">
+      <h2>Publishing workflow</h2>
+      <p>The dashboard is designed for semi-automated updates. A scheduled backend job drafts a proposed snapshot, which is then reviewed before promotion to the live snapshot. If an update fails, the site continues serving the last known good state.</p>
+      <ol>
+        <li>Fetch source inputs and review packet content.</li>
+        <li>Generate <code>proposed.json</code>.</li>
+        <li>Review proposed changes and score movement.</li>
+        <li>Promote the proposal to <code>latest.json</code>.</li>
+        <li>Archive the previous published snapshot.</li>
+      </ol>
+    </section>
+
+    <section class="panel prose-section">
+      <h2>Source policy</h2>
+      <p>Key cards should expose a source label, source type, publication time, retrieval time, and a source URL when available. Public visitors only load static assets and JSON; no browser-side model calls are used.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer shell">
+    <div>
+      <div class="footer-brand">SENTINEL // METHODOLOGY</div>
+      <div class="footer-meta">Clarity of method over fake neutrality.</div>
+    </div>
+    <div class="footer-links">
+      <a href="index.html">Dashboard</a>
+      <a href="archive.html">Archive</a>
+      <a href="about.html">About</a>
+    </div>
+  </footer>
+</body>
+</html>

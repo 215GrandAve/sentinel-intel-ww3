@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "platform_name": "Sentinel",
+    "product_name": "WW3 Barometer",
+    "version": "v3.0-proposed",
+    "status": "SEVERE / CRITICAL",
+    "score": 84,
+    "previous_score": 79,
+    "delta": 5,
+    "day_label": "DAY 12",
+    "header_timestamp_label": "MARCH 12, 2026 // 09:00 ET",
+    "last_updated": "2026-03-12T09:00:00-04:00",
+    "next_update": "2026-03-12T18:00:00-04:00",
+    "threshold_watch": "NEXT THRESHOLD: 90 / CRITICAL",
+    "footer_watch": "WATCHING FOR 90",
+    "fallback_notice": "Displaying most recent published snapshot until the proposed update is approved."
+  },
+  "summary": {
+    "headline": "SEVERE / CRITICAL",
+    "subheadline": "PROPOSAL AWAITING REVIEW",
+    "description": "Five vectors are converging simultaneously: military multi-front expansion, financial warfare declaration, geopolitical credibility collapse, Third Temple acceleration, and theological convergence across all four traditions. New vector added: Information Warfare. Ramadan 1447 overlay active — Laylatul Qadr imminent. Watching for 90.",
+    "confidence": "HIGH"
+  },
+  "alert_tape": "PROPOSED SNAPSHOT AWAITING REVIEW — HUMAN APPROVAL REQUIRED — LAST KNOWN GOOD REMAINS LIVE",
+  "alerts": [
+    "Proposed snapshot awaiting review",
+    "Human approval required",
+    "Last known good stays live until publish"
+  ],
+  "changelog": [
+    "Draft proposal generated from structured review packet.",
+    "Human approval still required before publish.",
+    "Last known good snapshot remains live until promotion.",
+    "Score +5 since Day 7.",
+    "Financial / Economic vector upgraded on bank-targeting language and Hormuz mining risk."
+  ],
+  "vectors": [
+    {
+      "name": "Military Escalation",
+      "score": 88,
+      "delta": 6,
+      "confidence": "HIGH",
+      "class": "ASSESSMENT",
+      "driver": "Multi-front confirmed: Iran + Lebanon + Gulf",
+      "note": "Hezbollah opening second front, IDF expanding south Lebanon evacuation orders, five Iranian missile barrages at Israel today alone."
+    },
+    {
+      "name": "Geopolitical Stability",
+      "score": 86,
+      "delta": 6,
+      "confidence": "HIGH",
+      "class": "ASSESSMENT",
+      "driver": "US credibility structurally stressed",
+      "note": "Narrative fracture and alliance credibility strain remain active across the region."
+    },
+    {
+      "name": "Financial / Economic",
+      "score": 85,
+      "delta": 11,
+      "confidence": "HIGH",
+      "class": "ASSESSMENT",
+      "driver": "Bank targeting declared + Hormuz mined",
+      "note": "Financial infrastructure and energy chokepoints are now moving in the same direction."
+    },
+    {
+      "name": "Theological Convergence",
+      "score": 97,
+      "delta": 8,
+      "confidence": "MODERATE",
+      "class": "INTERPRETIVE",
+      "driver": "Netanyahu Messiah statement + Paula White axis",
+      "note": "Christian, Messianic Jewish, Islamic, and Orthodox watch-frames are all live at the same time."
+    },
+    {
+      "name": "Third Temple / Al-Aqsa",
+      "score": 96,
+      "delta": 0,
+      "confidence": "HIGH",
+      "class": "INTERPRETIVE",
+      "driver": "Kohanim recruitment confirmed",
+      "note": "Sacred-site acceleration remains a maximum-sensitivity variable inside the barometer model."
+    },
+    {
+      "name": "Information Warfare",
+      "score": 79,
+      "delta": 3,
+      "confidence": "MODERATE",
+      "class": "ASSESSMENT",
+      "driver": "ADL–LLM lobbying + Knesset testimony",
+      "note": "Narrative-shaping pressure is treated as its own escalation lane, not a footnote."
+    }
+  ],
+  "intel_cards": [
+    {
+      "title": "Banks and financial institutions declared legitimate targets",
+      "timestamp": "2026-03-12T04:18:00-04:00",
+      "timestamp_label": "▲ CRITICAL // 04:18 ET TODAY",
+      "class": "VERIFIED",
+      "severity": "CRITICAL",
+      "confidence": "HIGH",
+      "summary": "Iran's joint military command officially declared banks and financial institutions legitimate targets across the Middle East. Abraham Accords financial infrastructure is now explicitly in the crosshairs. Markets have not fully priced this.",
+      "source_label": "Public statement",
+      "source_url": "https://example.com/source/bank-targeting",
+      "source_type": "official statement",
+      "published_at": "2026-03-12T04:18:00-04:00",
+      "retrieved_at": "2026-03-12T08:42:00-04:00",
+      "analyst_note": "This is a direct language shift, not just a sentiment read."
+    },
+    {
+      "title": "Hormuz effectively closed, mining confirmed",
+      "timestamp": "2026-03-12T07:10:00-04:00",
+      "timestamp_label": "▲ CRITICAL // HORMUZ",
+      "class": "VERIFIED",
+      "severity": "CRITICAL",
+      "confidence": "HIGH",
+      "summary": "A public lawmaker statement described the Strait as effectively closed for 10 days and said Iran is now mining the Strait. That puts roughly 20M barrels/day into the disruption frame with no clear public reopening plan.",
+      "source_label": "Lawmaker statement",
+      "source_url": "https://example.com/source/hormuz",
+      "source_type": "public commentary",
+      "published_at": "2026-03-12T07:10:00-04:00",
+      "retrieved_at": "2026-03-12T08:45:00-04:00",
+      "analyst_note": "This is one of the cleanest single triggers for a fast score jump toward 90."
+    },
+    {
+      "title": "CPI prints softer than the war narrative",
+      "timestamp": "2026-03-12T08:30:00-04:00",
+      "timestamp_label": "▲ HIGH // CPI TODAY",
+      "class": "DATA",
+      "severity": "HIGH",
+      "confidence": "HIGH",
+      "summary": "February CPI printed +0.3% MoM / +2.4% YoY. Core printed +0.2% MoM / +2.5% YoY — a slight dovish surprise on core, but the print is pre-war in market terms and the oil shock does not fully hit until later data windows.",
+      "source_label": "Market data feed",
+      "source_url": "https://example.com/source/cpi",
+      "source_type": "market data",
+      "published_at": "2026-03-12T08:30:00-04:00",
+      "retrieved_at": "2026-03-12T08:31:00-04:00",
+      "analyst_note": "Muted macro does not cancel energy shock risk."
+    },
+    {
+      "title": "Multi-front expansion remains active",
+      "timestamp": "2026-03-12T09:00:00-04:00",
+      "timestamp_label": "▲ HIGH // MULTI-FRONT",
+      "class": "ASSESSMENT",
+      "severity": "HIGH",
+      "confidence": "HIGH",
+      "summary": "Hezbollah is opening a second front, IDF evacuation orders are expanding in south Lebanon, and the West Bank remains under full lockdown. The military picture is not a single-front event anymore.",
+      "source_label": "Analyst packet",
+      "source_url": "https://example.com/source/multi-front",
+      "source_type": "review packet",
+      "published_at": "2026-03-12T09:00:00-04:00",
+      "retrieved_at": "2026-03-12T09:00:00-04:00",
+      "analyst_note": "The point is convergence — multiple fronts reinforcing one another."
+    }
+  ],
+  "doctrine": {
+    "title": "Netanyahu Messiah Doctrine — Fully Documented",
+    "quote": "\"We will make it to the return of the Messiah, but this will not happen next Thursday.\"",
+    "quote_source": "— PRIME MINISTER BENJAMIN NETANYAHU // MARCH 12, 2026 // ACTIVE WARTIME STATEMENT",
+    "cards": [
+      {
+        "tag": "LUBAVITCHER PROPHECY",
+        "class": "INTERPRETIVE",
+        "text": "The late Rebbe Schneerson told a young Netanyahu: \"You will be the prime minister who passes the scepter to the Messiah.\" That prophecy is now circulating openly during active war."
+      },
+      {
+        "tag": "ACCELERATIONIST DOCTRINE",
+        "class": "INTERPRETIVE",
+        "text": "Netanyahu is framed explicitly as an accelerationist — someone who could precipitate or force God's intervention in history. Kohanim recruitment and Temple-adjacent preparation magnify that frame."
+      },
+      {
+        "tag": "HISTORIC SPIRITUAL MISSION",
+        "class": "INTERPRETIVE",
+        "text": "Netanyahu has said on record that he has a sense of mission, historically and spiritually. Inside this model, that matters because elite self-understanding can affect state behavior."
+      }
+    ]
+  },
+  "axis": {
+    "title": "Theological Command Axis — Fully Mapped",
+    "nodes": [
+      {
+        "title": "PAULA WHITE",
+        "body": "WH Faith Office Head\nMet Netanyahu Feb 4\nAppointed Feb 6"
+      },
+      {
+        "title": "HEGSETH",
+        "body": "SecDef / War Commander\nThird Temple speech 2018\n\"New capabilities\" promised"
+      },
+      {
+        "title": "TRUMP",
+        "body": "\"Anointed by Jesus\"\nper own commanders\nto troops"
+      },
+      {
+        "title": "SCOFIELD THEOLOGY",
+        "body": "Dispensationalism\nIsrael restoration =\nRapture precondition"
+      },
+      {
+        "title": "80M EVANGELICALS",
+        "body": "Believe they're\naccelerating Jesus's\nreturn via this war"
+      }
+    ]
+  },
+  "traditions": {
+    "title": "Four-Tradition Theological Convergence",
+    "rows": [
+      {
+        "tradition": "Evangelical Christian",
+        "status": "END TIMES ACTIVE",
+        "status_class": "critical",
+        "signal": "Paula White Faith Office // Hegseth Third Temple speech // Scofield dispensationalism // Trump as anointed vessel"
+      },
+      {
+        "tradition": "Messianic Jewish",
+        "status": "MESSIAH IMMINENT",
+        "status_class": "critical",
+        "signal": "Lubavitcher prophecy circulating openly // Kohanim being recruited // Netanyahu accelerationist framing // Era of Messiah language active"
+      },
+      {
+        "tradition": "Islamic",
+        "status": "MAJOR SIGNS PRESENT",
+        "status_class": "critical",
+        "signal": "Al-Aqsa contested in active war // Regional conflict centered on Al-Quds // Financial system targeted // Laylatul Qadr this week"
+      },
+      {
+        "tradition": "Orthodox Christian",
+        "status": "WATCHING",
+        "status_class": "high",
+        "signal": "Patriarch statements on holy sites // Russian Orthodox framing of conflict // Byzantine Rome parallel active in discourse"
+      }
+    ]
+  },
+  "overlay": {
+    "title": "RAMADAN 1447 OVERLAY",
+    "subtitle": "DIVINE DECREE WINDOW — AL-QUDS CONTESTED IN REAL TIME — NO PRECEDENT IN MODERN ERA",
+    "description": "The Night of Decree — when divine destinies are written — falls this week inside an active regional war centered on Al-Quds and Al-Aqsa. The theological significance within the Islamic eschatological framework cannot be overstated. No Western analytical model is tracking this variable.",
+    "timeline": [
+      {
+        "date": "MAR 10",
+        "title": "Last 10 Nights Begin",
+        "description": "Prophet ﷺ tightened his waist belt, stayed up, and woke his family. Full ibadah mode.",
+        "state": "ACTIVE NOW"
+      },
+      {
+        "date": "MAR 16",
+        "title": "27th Night",
+        "description": "Most likely Laylatul Qadr. Night the Quran descended. Better than 1,000 months.",
+        "state": "PEAK"
+      },
+      {
+        "date": "MAR 19",
+        "title": "Last Night — 3/19",
+        "description": "Night of wage payment. \"The workers receive what they earned.\" Recurrent signal date.",
+        "state": "FINAL"
+      },
+      {
+        "date": "MAR 20",
+        "title": "Eid ul-Fitr 1447",
+        "description": "Ramadan sealed. Whatever was written, was written.",
+        "state": "WATCH"
+      }
+    ]
+  },
+  "info_warfare": {
+    "title": "Information Warfare — New Vector",
+    "cards": [
+      {
+        "tag": "ADL — LLM LOBBYING",
+        "class": "ASSESSMENT",
+        "text": "ADL published a large bias report explicitly pushing AI companies to reshape answers on Israel. Claude, GPT, Gemini, and Llama all sit inside that pressure campaign."
+      },
+      {
+        "tag": "KNESSET TESTIMONY",
+        "class": "ASSESSMENT",
+        "text": "ADL leadership testified before the Israeli Knesset and invoked a prior Mossad pager operation as a model for information warfare strategy."
+      },
+      {
+        "tag": "CURRICULUM + PLATFORMS",
+        "class": "ASSESSMENT",
+        "text": "Education programs, platform pressure, encyclopedia editing battles, and the social layer all operate as one narrative battlespace rather than isolated incidents."
+      }
+    ]
+  },
+  "market_sections": [
+    {
+      "title": "INDICES",
+      "rows": [
+        {
+          "label": "NQ (Nasdaq 100 Futures)",
+          "value": "24,929 ▼",
+          "direction": "bearish",
+          "class": "DATA"
+        },
+        {
+          "label": "ES (S&P 500 Futures)",
+          "value": "Flat / Cautious",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "Key Resistance NQ",
+          "value": "25,162",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "Pivot NQ",
+          "value": "24,757",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "S1 NQ",
+          "value": "24,264",
+          "direction": "neutral",
+          "class": "DATA"
+        }
+      ]
+    },
+    {
+      "title": "ENERGY",
+      "rows": [
+        {
+          "label": "WTI Crude (CL1)",
+          "value": "$85.32 ▲ +3.14%",
+          "direction": "bullish",
+          "class": "DATA"
+        },
+        {
+          "label": "War Spike High",
+          "value": "$119.48",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "Pivot Support",
+          "value": "$83–85",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "CPI Feb (released today)",
+          "value": "2.4% YoY ✓ In-line",
+          "direction": "bullish",
+          "class": "DATA"
+        },
+        {
+          "label": "War Cost / Day",
+          "value": "$2B+",
+          "direction": "bearish",
+          "class": "DATA"
+        }
+      ]
+    }
+  ],
+  "triggers": [
+    {
+      "id": 1,
+      "text": "Iran bank-targeting declaration executed — first Gulf financial institution physically struck."
+    },
+    {
+      "id": 2,
+      "text": "Hormuz mining confirmed operational — tanker sunk or disabled, full closure triggered."
+    },
+    {
+      "id": 3,
+      "text": "Al-Aqsa physically threatened or accessed by Israeli nationalists during active war."
+    },
+    {
+      "id": 4,
+      "text": "Russia moves from intelligence-sharing to active military involvement."
+    },
+    {
+      "id": 5,
+      "text": "Iran deploys Fattah-2 hypersonic at scale — no proven intercept solution exists."
+    },
+    {
+      "id": 6,
+      "text": "US Congress invokes War Powers — or fails to, triggering constitutional crisis."
+    }
+  ]
+}

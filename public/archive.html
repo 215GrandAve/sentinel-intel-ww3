@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Archive — Sentinel</title>
+  <meta name="description" content="Historical snapshots for the Sentinel WW3 Barometer." />
+  <meta property="og:title" content="Archive — Sentinel" />
+  <meta property="og:description" content="Historical score snapshots, deltas, and top drivers." />
+  <meta property="og:image" content="assets/og-card.png" />
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Bebas+Neue&family=DM+Sans:wght@300;400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="archive">
+  <div class="scanline"></div>
+  <header class="site-header shell">
+    <div class="brand-lockup">
+      <a class="brand" href="index.html">
+        <span class="brand-kicker">SENTINEL</span>
+        <span class="brand-title">WW3 BAROMETER</span>
+      </a>
+      <p class="brand-subtitle">Historical snapshots / deltas / top drivers</p>
+    </div>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="index.html">Dashboard</a>
+      <a href="methodology.html">Methodology</a>
+      <a class="is-active" href="archive.html">Archive</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="shell prose-page">
+    <section class="panel panel-highlight">
+      <div class="section-heading">
+        <span class="eyebrow">Archive</span>
+        <h1>Historical published snapshots</h1>
+      </div>
+      <p class="copy large">Each published snapshot preserves the score, the delta, the status, and the primary drivers visible at that time.</p>
+    </section>
+
+    <section class="panel">
+      <div id="archiveList" class="archive-grid"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer shell">
+    <div>
+      <div class="footer-brand">SENTINEL // ARCHIVE</div>
+      <div class="footer-meta">Trajectory matters as much as the current state.</div>
+    </div>
+    <div class="footer-links">
+      <a href="index.html">Dashboard</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="about.html">About</a>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
