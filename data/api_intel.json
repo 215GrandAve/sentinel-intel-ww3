@@ -1,0 +1,1764 @@
+{
+  "meta": {
+    "fetched_at": "2026-03-15T00:23:28Z",
+    "version": "3.0",
+    "source_count": 38,
+    "sources_queried": [
+      "GDELT",
+      "GDELT_GKG",
+      "Yahoo Finance",
+      "Coinbase",
+      "CME FedWatch",
+      "USGS",
+      "ReliefWeb",
+      "NASA EONET"
+    ],
+    "sources_succeeded": [
+      "GDELT",
+      "GDELT_GKG",
+      "Yahoo Finance",
+      "Coinbase",
+      "CME FedWatch",
+      "USGS"
+    ],
+    "sources_failed": [
+      "ReliefWeb",
+      "NASA EONET"
+    ]
+  },
+  "gdelt_articles": [
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "What to know about the Strait of Hormuz",
+      "url": "https://www.journalgazette.net/business/what-to-know-about-the-strait-of-hormuz/article_5769aab6-7f7d-5226-84d8-e93134c8378e.html",
+      "domain": "journalgazette.net",
+      "language": "English",
+      "seendate": "20260315T000000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Meerdere droneaanvallen in Koeweit • Trump wil dat landen oorlogsschepen sturen naar Straat van Hormuz",
+      "url": "https://nos.nl/collectie/14015/liveblog/2606111-meerdere-droneaanvallen-in-koeweit-trump-wil-dat-landen-oorlogsschepen-sturen-naar-straat-van-hormuz",
+      "domain": "nos.nl",
+      "language": "Dutch",
+      "seendate": "20260314T233000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Firestorm as drone attack shuts key Middle Eastern oil port",
+      "url": "https://www.express.co.uk/news/world/2182320/drone-attack-shuts-key-port-united-arab-emirates-iran",
+      "domain": "express.co.uk",
+      "language": "English",
+      "seendate": "20260314T231500Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Trump urges united kingdom to send ships to Strait of Hormuz",
+      "url": "https://www.yahoo.com/news/articles/trump-urges-uk-send-ships-203451788.html",
+      "domain": "yahoo.com",
+      "language": "English",
+      "seendate": "20260314T230000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "It Appears Ships are Sailing , Once Again , Through the Strait of Hormuz",
+      "url": "https://hotair.com/headlines/2026/03/14/it-appears-ships-are-sailing-once-again-through-the-strait-of-hormuz-n3812850",
+      "domain": "hotair.com",
+      "language": "English",
+      "seendate": "20260314T220000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "যুক্তরাষ্ট্র ও ইসরায়েলের কোনো জাহাজ হরমুজ প্রণালি অতিক্রম করতে পারবে না |",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/15/1228366",
+      "domain": "bd-pratidin.com",
+      "language": "Bengali",
+      "seendate": "20260314T213000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Иран новости : мастер выкрутасов Дональд Трамп нашел способ красиво « соскочить » с Ирана - БлокнотРУ - Иран новости . Иран последние новости . Новости Ирана . Иран . Потери США в Иране на сегодня . Новости Иран . Война в Иране . Потери США в Иране 2...",
+      "url": "https://bloknot.ru/politika/master-vykrutasov-tramp-nashel-sposob-krasivo-soskochit-s-irana-1502197.html",
+      "domain": "bloknot.ru",
+      "language": "Russian",
+      "seendate": "20260314T213000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "U . S . Air Tanker Crash in Iraq Recalls KC - 135 Loss in Kyrgyzstan in 2013",
+      "url": "https://timesca.com/u-s-air-tanker-crash-in-iraq-recalls-kc-135-loss-in-kyrgyzstan-in-2013/",
+      "domain": "timesca.com",
+      "language": "English",
+      "seendate": "20260314T213000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Michael Smerconish Gives Props To Trump Iran War",
+      "url": "https://www.mediaite.com/media/tv/the-world-is-a-safer-place-cnn-host-gives-props-to-trumps-iran-war/",
+      "domain": "mediaite.com",
+      "language": "English",
+      "seendate": "20260314T213000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Trump urges united kingdom to send ships to Strait of Hormuz",
+      "url": "https://www.aol.co.uk/articles/trump-urges-uk-send-ships-203451861.html",
+      "domain": "aol.co.uk",
+      "language": "English",
+      "seendate": "20260314T211500Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Trump Calls for Allied Warships to Secure Strait of Hormuz",
+      "url": "https://gcaptain.com/trump-calls-for-allied-warships-to-secure-strait-of-hormuz/",
+      "domain": "gcaptain.com",
+      "language": "English",
+      "seendate": "20260314T194500Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Iran is considering reopening the Strait of Hormuz , but the one condition attached hands China a major financial win at America expense",
+      "url": "https://attackofthefanboy.com/politics/iran-is-considering-reopening-the-strait-of-hormuz-but-the-one-condition-attached-hands-china-a-major-financial-win-at-americas-expense/",
+      "domain": "attackofthefanboy.com",
+      "language": "English",
+      "seendate": "20260314T193000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "ورقى .. إغلاق مضيق هرمز يشعل المعارك .. وترامب يتوعد بضرب البنية النفطية الإيرانية",
+      "url": "https://www.elwatannews.com/news/details/8245872",
+      "domain": "elwatannews.com",
+      "language": "Arabic",
+      "seendate": "20260314T193000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "U . S . Bombs Kharg Island , Gateway of Iran Oil Trade< !-- -- >",
+      "url": "https://www.zerohedge.com/news/2026-03-14/us-bombs-kharg-island-gateway-irans-oil-trade",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "seendate": "20260314T193000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "  Send warship : Trump urgent call to the world to end Iran grip on Strait of Hormuz | Indiablooms",
+      "url": "https://www.indiablooms.com/world/send-warships-trump-urges-global-naval-deployment-to-break-irans-strait-of-hormuz-blockade/details",
+      "domain": "indiablooms.com",
+      "language": "English",
+      "seendate": "20260314T191500Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "War on Iran Is Enriching Weapons Firms as It Tanks the Global Economy",
+      "url": "https://truthout.org/articles/war-on-iran-is-enriching-weapons-firms-as-it-tanks-the-global-economy/",
+      "domain": "truthout.org",
+      "language": "English",
+      "seendate": "20260314T184500Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Key UAE port suspends oil loadings after drone attack , fire",
+      "url": "https://www.moneycontrol.com/world/key-uae-port-suspends-oil-loadings-after-drone-attack-fire-article-13860575.html",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "seendate": "20260314T183000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Trump says four Air Force refueling planes are  back in service  after damage from Iranian strike in Saudi Arabia",
+      "url": "https://www.yahoo.com/news/articles/trump-says-four-air-force-142455735.html",
+      "domain": "yahoo.com",
+      "language": "English",
+      "seendate": "20260314T183000Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "US territories confront American identity amid 250th , Iran war",
+      "url": "https://www.aol.com/articles/us-territories-confront-american-identity-100053437.html",
+      "domain": "aol.com",
+      "language": "English",
+      "seendate": "20260314T181500Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Trump vows Strait of Hormuz will open  one way or another , threatens military action",
+      "url": "https://www.ynetnews.com/article/hkifpymqze",
+      "domain": "ynetnews.com",
+      "language": "English",
+      "seendate": "20260314T181500Z",
+      "retrieved_at": "2026-03-15T00:23:42Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "LE NOTIZIE DEL GIORNO DEL 14 MARZO - Trump e il no a Putin : luranio di Teheran non andrà in Russia . Oltre 200 professionisti a Forum Turismo Italia LE ULTIMISSIME",
+      "url": "https://www.casertafocus.net/home/index.php?option=com_content&view=article&id=74735:ertweyuryitopi&catid=39&Itemid=259",
+      "domain": "casertafocus.net",
+      "language": "Italian",
+      "seendate": "20260314T200000Z",
+      "retrieved_at": "2026-03-15T00:24:00Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Trump odrzucił propozycję Putina .  To nie pierwszy raz , gdy to zaproponowano  ",
+      "url": "https://www.tokfm.pl/swiat/trump-odrzucil-propozycje-putina-to-nie-pierwszy-raz-gdy-to-zaproponowano",
+      "domain": "tokfm.pl",
+      "language": "Polish",
+      "seendate": "20260314T153000Z",
+      "retrieved_at": "2026-03-15T00:24:00Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Война без конца : пять сценариев для Ирана",
+      "url": "https://news.israelinfo.co.il/142059",
+      "domain": "news.israelinfo.co.il",
+      "language": "Russian",
+      "seendate": "20260314T151500Z",
+      "retrieved_at": "2026-03-15T00:24:00Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "GDELT",
+      "source_type": "event_monitor",
+      "title": "Iran defends right to self - defense in Strait of Hormuz , slams US aggression",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260313-presstv11.htm",
+      "domain": "globalsecurity.org",
+      "language": "English",
+      "seendate": "20260314T130000Z",
+      "retrieved_at": "2026-03-15T00:24:00Z",
+      "vector_targets": [
+        "military_escalation",
+        "geopolitical_stability"
+      ],
+      "class": "DATA"
+    }
+  ],
+  "gdelt_gkg": [
+    {
+      "source": "GDELT_GKG",
+      "source_type": "tone_analysis",
+      "actor": "Iran",
+      "data": {
+        "tonechart": [
+          {
+            "bin": -20,
+            "count": 1,
+            "toparts": [
+              {
+                "url": "https://www.outlookindia.com/author/pattie-ehsaei",
+                "title": "Pattie Ehsaei - Read all stories from Pattie Ehsaei | Author at Outlook India"
+              }
+            ]
+          },
+          {
+            "bin": -19,
+            "count": 0,
+            "toparts": []
+          },
+          {
+            "bin": -18,
+            "count": 0,
+            "toparts": []
+          },
+          {
+            "bin": -17,
+            "count": 1,
+            "toparts": [
+              {
+                "url": "https://udayavani.com/world-news/Iranian-drone-attack-on-US-embassy-in-Baghdad-298092",
+                "title": "ಬಾಗ್ದಾದ್‌ನಲ್ಲಿರುವ ಅಮೆರಿಕ ರಾಯಭಾರ ಕಚೇರಿ ಮೇಲೆ ಇರಾನ್‌ ಡ್ರೋನ್‌ ದಾಳಿ | Udayavani - Latest Kannada News , Udayavani Newspaper"
+              }
+            ]
+          },
+          {
+            "bin": -16,
+            "count": 8,
+            "toparts": [
+              {
+                "url": "https://udayavani.com/world-news/Iran-attacks-Gulf-countries-UAE-Qatar-Kuwait-oil-plants-shut-down-957212",
+                "title": "ಗಲ್ಫ್‌ ರಾಷ್ಟ್ರಗಳ ಮೇಲೆ ಇರಾನ್‌ ದಾಳಿ ; ಯುಎಇ , ಕತಾರ್‌ , ಕುವೈತ್‌ ತೈಲ ಘಟಕಗಳು ಬಂದ್‌ | Udayavani - Latest Kannada News , Udayavani Newspaper"
+              },
+              {
+                "url": "http://www.haberler.com/guncel/fethiye-de-filistin-ve-iran-daki-cocuklar-icin-protesto-gosterisi-19657675-haberi/",
+                "title": "Fethiyede Filistin ve İranda ölen çocuklar için protesto gösterisi yapıldı"
+              },
+              {
+                "url": "https://365.com.mk/tramp-isprati-nova-zakana-do-iran-vnimavajte-na-nastanite-deneska/",
+                "title": "Трамп испрати нова закана до Иран : Внимавајте на настаните денеска ! "
+              },
+              {
+                "url": "https://www.thestar.com.my/business/business-news/2026/03/14/the-price-of-war",
+                "title": "The price of war"
+              },
+              {
+                "url": "https://www.aljazeera.net/news/2026/3/14/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%8A%D9%86",
+                "title": "إصابة أربعة فلسطينيين بهجوم مستوطنين شرق بيت لحم"
+              },
+              {
+                "url": "https://dennikn.sk/minuta/5200156/",
+                "title": "Drony zasiahli radarový systém medzinárodného letiska v Kuvajte"
+              },
+              {
+                "url": "https://targetednews.com/pr_disp.php?pr_id=9545517",
+                "title": "Targeted News Service"
+              },
+              {
+                "url": "https://www.zazoom.it/2026-03-14/ucraina-raid-con-droni-e-missili-russi-vicino-kiev-4-morti-e-10-feriti/18832567/",
+                "title": "Ucraina raid con droni e missili russi vicino Kiev"
+              }
+            ]
+          },
+          {
+            "bin": -15,
+            "count": 3,
+            "toparts": [
+              {
+                "url": "https://www.globaltimes.cn/page/202603/1356957.shtml",
+                "title": "US carries out bombing raids on military targets in Iran Kharg Island ; move reflects escalation of confrontation : Chinese expert"
+              },
+              {
+                "url": "https://www.baltimoresun.com/2026/03/14/u-s-must-pursue-energy-independence/",
+                "title": "US must pursue energy independence | READER COMMENTARY"
+              },
+              {
+                "url": "https://www.albayan.ae/news/world/us/1131095",
+                "title": "وزير الدفاع الأمريكي : مجتبى خامنئي جريح ومشوه والقيادة الإيرانية في حالة فوضى"
+              }
+            ]
+          },
+          {
+            "bin": -14,
+            "count": 17,
+            "toparts": [
+              {
+                "url": "https://www.mersinhaber.com/haber-iran-ordu-komutani-emir-hatemi-abdnin-saldirisina-tepki-gosterdi/573612",
+                "title": "İran Ordu Komutanı Emir Hatemi , ABDnin Saldırısına Tepki Gösterdi"
+              },
+              {
+                "url": "https://www.lokmat.com/international/how-many-deaths-were-there-in-the-us-israel-and-iran-war-in-2-weeks-how-much-damage-was-there-you-will-be-surprised-to-know-the-number-a-a653/",
+                "title": "हाहाकार ! US - इस्रायल अन् इराण युद्धात २ आठवड्यांत किती मृत्यू झाले ? किती नुकसान झालं ? आकडा जाणून थक्क व्हाल"
+              },
+              {
+                "url": "https://albeu.com/lajme/bota/pershkallezimi-i-tensioneve-me-iranin-ambasada-amerikane-ne-oman-urdheron-evakuimin-e-personelit/864922/",
+                "title": "Përshkallëzimi i tensioneve me Iranin , Ambasada amerikane në Oman urdhëron evakuimin e personelit"
+              },
+              {
+                "url": "https://naslovi.net/2026-03-14/blic/trampove-nuklearne-opcije-5-scenarija-za-rat-u-iranu-svaki-je-gori-od-prethodnog-ako-se-ovo-desi-amerika-ce-totalno-izgubiti-kontrolu/41480781",
+                "title": "Trampove nuklearne opcije ! 5 scenarija za rat u Iranu : Svaki je gori od prethodnog , ako se ovo desi - Amerika će totalno izgubiti kontrolu"
+              },
+              {
+                "url": "https://iz.ru/2059142/2026-03-14/v-irane-nazvali-usloviia-dlia-uregulirovaniia-konflikta-na-blizhnem-vostoke",
+                "title": "В Иране назвали условия для урегулирования конфликта на Ближнем Востоке"
+              },
+              {
+                "url": "https://voxnews.al/kosovabota/lufta-ne-iran-ambasada-amerikane-ne-oman-urdheron-evakuimin-e-persone-i112284",
+                "title": "Lufta në Iran / Ambasada amerikane në Oman urdhëron evakuimin e personelit"
+              },
+              {
+                "url": "https://www.haber7.com/dunya/haber/3611943-trumpi-yerden-yere-vurdu-artik-biktik",
+                "title": "Trump  ı yerden yere vurdu : Artık bıktık"
+              },
+              {
+                "url": "https://kar-online.com/author/z-evin/",
+                "title": "زندانیان اوین - گزارش – نشریه کار | ارگان سازمان فداییان خلق ایران ( اکثریت ) "
+              },
+              {
+                "url": "https://www.vesti.ru/ns/tramp-oproverg-slukhi-o-potere-pyati-samoletov-zapravshchikov-v-saudovskoj-aravii",
+                "title": "Трамп опроверг слухи о потере пяти самолетов - заправщиков в Саудовской Аравии"
+              },
+              {
+                "url": "https://www.danas.rs/svet/svakodnevica-pod-bombama-kako-stalni-strah-utice-na-psihu/",
+                "title": "Svakodnevica pod bombama – kako stalni strah utiče na psihu"
+              }
+            ]
+          },
+          {
+            "bin": -13,
+            "count": 36,
+            "toparts": [
+              {
+                "url": "https://www.politika.rs/scc/clanak/738768/iran-uhapsio-14-kljucnih-spijuna-sad-i-izraela",
+                "title": "Иран ухапсио 14 кључних шпијуна САД и Израела"
+              },
+              {
+                "url": "https://bawabatii.com/news345925.html",
+                "title": "وزير الدفاع الإسرائيلي يعلن تصاعد الحرب ضد إيران ويدعو الشعب الإيراني لمعارضة قيادته"
+              },
+              {
+                "url": "https://novice24.net/item/2239711_klju%c4%8dno-pristani%c5%a1%c4%8de-zae-tar%c4%8da-napada-trump-iranski-naftni-otok-je-uni%c4%8den",
+                "title": "Ključno pristanišče ZAE tarča napada , Trump : iranski naftni otok je uničen"
+              },
+              {
+                "url": "https://lb.ua/world/2026/03/14/727319_mzs_nazvalo_absurdnimi_pogrozi.html",
+                "title": "МЗС назвало абсурдними погрози представника іранського режиму"
+              },
+              {
+                "url": "http://www.seneweb.com/fr/news/International/guerre-au-moyen-orient-liran-menace-de-reduire-en-cendres-les-infrastructures-petrolieres-liees-aux-etats-unis_n_486462.html",
+                "title": "Guerre au Moyen - Orient : lIran menace de « réduire en cendre ... | Seneweb"
+              },
+              {
+                "url": "https://lenta.ru/news/2026/03/14/v-abu-dabi-arestovali-45-chelovek-za-s-emku-vo-vremya-voennogo-konflikta-s-iranom/",
+                "title": "В Абу - Даби арестовали десятки людей за съемку во время конфликта с Ираном"
+              },
+              {
+                "url": "https://naslovi.net/2026-03-14/vecernje-novosti/rat-besni-na-bliskom-istoku-izvrsen-napad-dronovima-na-naftni-terminal-u-emiratima-sad-bombardovale-iransko-ostrvo-harg/41480782",
+                "title": "Rat besni na Bliskom istoku : Izvršen napad dronovima na naftni terminal u Emiratima , SAD bombardovale iransko ostrvo Harg"
+              },
+              {
+                "url": "https://www.andhrajyothy.com/2026/international/uae/iranian-strike-hits-5-us-air-force-refueling-aircraft-at-saudi-base-report-sgr-spl-1503688.html",
+                "title": "సౌదీ బేస్‌పై ఇరాన్ దాడి .. ఐదు అమెరికా విమానాలు ధ్వంసం .. | Iranian Strike Hits 5 US Air Force Refueling Aircraft at Saudi Base Report sgr spl"
+              },
+              {
+                "url": "http://www.koreatimes.com/article/20260313/1605045",
+                "title": "  제2 전쟁터  레바논 , 사망자 700명 육박"
+              },
+              {
+                "url": "https://thedailyblog.co.nz/1-on-1-in-10-phil-goff-on-trump-netanyahu-the-iran-war/",
+                "title": "1 - on - 1 In 10 : Phil Goff On Trump , Netanyahu & The Iran War"
+              }
+            ]
+          },
+          {
+            "bin": -12,
+            "count": 49,
+            "toparts": [
+              {
+                "url": "https://www.malatyaguncel.com/israil-savunma-bakani-katz-iran-a-karsi-mucadel-3081333h.htm",
+                "title": "İsrail Savunma Bakanı Katz : "
+              },
+              {
+                "url": "https://vaartha.com/international/iran-warns-uae-middle-east-tensions-updates/666879/",
+                "title": "Iran War : యూఏఈ వాసులకు ఇరాన్ వార్నింగ్"
+              },
+              {
+                "url": "https://naslovi.net/tema/2471509",
+                "title": "Teheran u plamenu posle napada na naftna skladišta , Tramp neće da gura Kurde u ratu - Povezane vesti"
+              },
+              {
+                "url": "https://www.itnnews.lk/2026/03/14/782461/",
+                "title": "ඉරානයෙන් අනතුරු ඇඟවීමක් - ITN News"
+              },
+              {
+                "url": "https://www.risingbd.com/international/news/642875",
+                "title": "হামলায় ইরানের কুর্দিস্তানে ১১২ জন নিহত"
+              },
+              {
+                "url": "https://www.haberler.com/guncel/iran-in-israil-e-yonelik-fuze-misillemeleri-suruyor-19658488-haberi/",
+                "title": "İrandan yapılan misilleme İsrailin kuzeyini hedef aldı"
+              },
+              {
+                "url": "https://pragativadi.com/trumps-strike-on-kharg-island-sparks-global-alarm/",
+                "title": "Trump Strike on Kharg Island Sparks Global Alarm - Pragativadi I Latest Odisha News in English I Breaking News"
+              },
+              {
+                "url": "https://www.dostor.org/5457199",
+                "title": "تداعيات استهداف جزيرة خرج الإيرانية .. السيناريوهات المحتملة"
+              },
+              {
+                "url": "https://www.sabah.com.tr/dunya/trumpa-israil-tepkisi-buyuyor-savaslardan-artik-biktik-usandik-7542710",
+                "title": "Trumpa İsrail tepkisi büyüyor : Savaşlardan artık bıktık usandık"
+              },
+              {
+                "url": "http://www.glas-javnosti.rs/vesti/svet/iran-uhapsio-14-kljucnih-spijuna-sad-i-izraela",
+                "title": "Iran uhapsio 14 ključnih špijuna SAD i Izraela"
+              }
+            ]
+          },
+          {
+            "bin": -11,
+            "count": 116,
+            "toparts": [
+              {
+                "url": "https://tsn.ua/svit/tramp-povnistiu-vtratyv-kontrol-u-senati-ssha-rizko-rozkrytykuvaly-viynu-z-iranom-3041270.html",
+                "title": "Криза в Ірані в сенаті США різко розкритикували Трампа Світ"
+              },
+              {
+                "url": "https://ria.ru/20260314/iran-2080621530.html",
+                "title": "  Вернемся в каменный век : в США ужаснулись последствиям атаки на Иран"
+              },
+              {
+                "url": "https://www.haberler.com/3-sayfa/israil-savunma-bakani-iran-a-karsi-savas-kritik-bir-asamaya-girdi-19657699-haberi/",
+                "title": "İsrail Savunma Bakanı Katz :  İrana karşı mücadelede son belirleyici aşamaya giriyoruz  "
+              },
+              {
+                "url": "https://www.zazoom.it/2026-03-14/guerra-in-iran-raid-sullisola-iraniana-di-kharg-nessun-danno-alle-infrastrutture-colpito-consolato-usa-a-erbil-trump-spera-che-altri-inviino-navi-a-hormuz-londra/18836003/",
+                "title": "Guerra in Iran | raid sullisola iraniana di Kharg nessun danno alle infrastrutture Colpito consolato united states a Erbil Trump spera che altri inviino navi a Hormuz Londra"
+              },
+              {
+                "url": "https://www.zazoom.it/2026-03-14/guerra-in-iran-raid-sullisola-iraniana-di-kharg-nessun-danno-alle-infrastrutture-colpito-consolato-usa-a-erbil/18834776/",
+                "title": "Guerra in Iran | raid sullisola iraniana di Kharg nessun danno alle infrastrutture Colpito consolato united states a Erbil"
+              },
+              {
+                "url": "https://www.yeniakit.com.tr/haber/israile-rahat-yok-iranda-yeni-misilleme-1989100.html",
+                "title": "İsraile rahat yok ! İrandan yeni misilleme"
+              },
+              {
+                "url": "https://www.vikatan.com/government-and-politics/iran-retaliates-after-us-strike-on-kharg-island-base",
+                "title": "கார்க் தீவு தாக்குதல் : அமெரிக்காவுக்கு ஈரான் பதிலடி , வளைகுடா எச்சரிக்கை|Kharg Island Strike : Iran Hits Back at US Targets"
+              },
+              {
+                "url": "https://news.walla.co.il/item/3823573",
+                "title": "חמאס קורא לאיראן להימנע מפגיעה במדינות שכנות"
+              },
+              {
+                "url": "https://www.zazoom.it/2026-03-14/guerra-in-iran-raid-sullisola-iraniana-di-kharg-nessun-danno-alle-infrastrutture-trump-stretto-libero-o-colpiremo-il-petrolio/18832633/",
+                "title": "Guerra in Iran | raid sullisola iraniana di Kharg nessun danno alle infrastrutture Trump | Stretto libero o colpiremo il petrolio"
+              },
+              {
+                "url": "https://prabhanews.com/kharg-island-strikeus-attack-iran-military-bases-destroyed-trump-warning-hormuz-strait/",
+                "title": "Kharg Island Strike : ఇరాన్ ఆయువు పట్టు ధ్వంసం Andhra Prabha News - Andhra Prabha | Telugu News Daily , Latest Telugu News , Latest తెలుగు వార్తలు and LIVE Updates | Breaking News in AP and Telangana"
+              }
+            ]
+          },
+          {
+            "bin": -10,
+            "count": 206,
+            "toparts": [
+              {
+                "url": "https://biz.heraldcorp.com/article/10694356",
+                "title": "전쟁 첫 날 수업 중 별이된 아이들 … 미 · 이란 전쟁 사망자 군 · 민간인 3000명 넘었다"
+              },
+              {
+                "url": "https://faktor.ba/svijet/svijet/sad-salje-dodatne-snage-na-bliski-istok-stize-borbena-grupa-sa-5000-marinaca-i-mornara/248080",
+                "title": "SAD šalje dodatne snage na Bliski istok : Stiže borbena grupa sa 5 . 000 marinaca i mornara"
+              },
+              {
+                "url": "https://ria.ru/20260314/iran-2080609218.html",
+                "title": "  Будут уничтожены : в США признались , что пошло не так при атаке на Иран"
+              },
+              {
+                "url": "https://www.ettoday.net/news/20260314/3132183.htm",
+                "title": "美軍轟炸哈爾克島 ！ 伊朗 ： 鎖定 「 美商持股石油設施 」 報復 | ETtoday國際新聞"
+              },
+              {
+                "url": "https://life.ru/p/1852017",
+                "title": "Израиль заявил , что уничтожил космический центр Ирана и завод по выпуску ПВО"
+              },
+              {
+                "url": "https://www.thaipbs.or.th/program/MiddleEast/watch/48xmg2m3o0md",
+                "title": "วิกฤตตะวันออกกลาง - ถอดวาทกรรม  สงครามศักดิ์สิทธิ์  สร้างความชอบธรรมเปิดสงครามอิหร่าน"
+              },
+              {
+                "url": "https://www.zazoom.it/2026-03-14/guerra-in-iran-raid-sullisola-iraniana-di-kharg-trump-stretto-libero-o-colpiremo-il-petrolio/18831981/",
+                "title": "Guerra in Iran | raid sullisola iraniana di Kharg Trump | Stretto libero o colpiremo il petrolio"
+              },
+              {
+                "url": "https://espreso.tv/svit-portnikov-e-nebezpeka-dlya-trampa-iran-mozhe-ne-dati-ssha-viyti-z-viyni",
+                "title": "Портников : Є небезпека для Трампа - Іран може не дати США вийти з війни"
+              },
+              {
+                "url": "https://korrespondent.net/ukraine/4862484-ukrayna-otreahyrovala-na-uhrozy-yrana",
+                "title": "Украина отреагировала на угрозы Ирана"
+              },
+              {
+                "url": "https://www.fnnews.com/news/202603141639227461",
+                "title": "낚싯배 위장해 유조선 공격 … 이란  드론 보트  까지 등장"
+              }
+            ]
+          },
+          {
+            "bin": -9,
+            "count": 348,
+            "toparts": [
+              {
+                "url": "https://www.ukrinform.ua/rubric-world/4101695-tramp-vidhiliv-propozicii-souznikiv-sodo-pripinenna-vognu-z-iranom-reuters.html",
+                "title": "Трамп відхилив пропозиції союзників щодо припинення вогню з Іраном"
+              },
+              {
+                "url": "https://ria.ru/20260314/iran-2080630226.html",
+                "title": "Иран пригрозил США последствиями в случае атаки на нефтяную инфраструктуру"
+              },
+              {
+                "url": "https://www.tu.no/nyhetsstudio/iran-truer-med-angrep-paa-oljeselskaper-etter-kharg-angrep/109397",
+                "title": "Iran truer med angrep på oljeselskaper etter Kharg - angrep - Teknisk Ukeblad"
+              },
+              {
+                "url": "https://news.ltn.com.tw/news/world/breakingnews/5369949",
+                "title": "石油命脈遭攻擊 ！ 伊朗怒聲明 區域內美相關石油設施皆為打擊目標 - 國際"
+              },
+              {
+                "url": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1221060-0/",
+                "title": "עשרות אזעקות ברחבי הארץ , האיום החריג של טראמפ נגד איראן | סיכום חדשות השבת"
+              },
+              {
+                "url": "https://news.bigmir.net/ua/world/10312022-senator-ssha-tramp-vtrativ-kontrol-nad-vijnoyu",
+                "title": "Сенатор США : Трамп втратив контроль над війною"
+              },
+              {
+                "url": "https://www.newsru.co.il/israel/14mar2026/iran_war_15.html",
+                "title": "15 - й день войны  Рычание льва : уничтожение военных объектов на острове Харк"
+              },
+              {
+                "url": "https://biz.heraldcorp.com/article/10694149",
+                "title": "  왜 우리는 베네수엘라처럼 되지 않나 … 꿈쩍않는 정권에 좌절하는 이란인들"
+              },
+              {
+                "url": "https://www.kommersant.ru/doc/8512360",
+                "title": "Иран ударил по отделениям американского Citibank в ОАЭ и Бахрейне"
+              },
+              {
+                "url": "https://hirunews.lk/452983/iran-warns-of-attacks-on-oil-companies-supporting-the-us",
+                "title": "අමෙරිකාවට සහාය දෙන තෙල් සමාගම්වලට පහර දෙන බවට ඉරානය අනතුරු අඟවයි"
+              }
+            ]
+          },
+          {
+            "bin": -8,
+            "count": 592,
+            "toparts": [
+              {
+                "url": "https://www.haberler.com/politika/iran-dan-saldiri-iddialarina-yanit-sorumlulugu-ustleniriz-19659031-haberi/",
+                "title": "İrandan bölge ülkelerine saldırı iddialarına yanıt :  Hedef aldığımız yerleri resmi olarak açıklıyoruz  "
+              },
+              {
+                "url": "http://www.haberler.com/politika/iran-dan-saldiri-iddialarina-yanit-sorumlulugu-ustleniriz-19659031-haberi/",
+                "title": "İrandan bölge ülkelerine saldırı iddialarına yanıt :  Hedef aldığımız yerleri resmi olarak açıklıyoruz  "
+              },
+              {
+                "url": "https://www.malatyaguncel.com/iran-dan-bolge-ulkelerine-saldiri-iddialarina-yani-3081553h.htm",
+                "title": "İrandan bölge ülkelerine saldırı iddialarına yanıt :  Hedef aldığımız yerleri resmi olarak açıklıyoruz  "
+              },
+              {
+                "url": "https://www.mathrubhumi.com/news/world/us-iran-conflict-kharg-island-oil-crisis-updates-t4x95p6k",
+                "title": "ഇറാൻ - യു . എസ് . സംഘർഷം : ഖാർഗ് ദ്വീപിലെ ആക്രമണവും ആഗോള ഇന്ധന പ്രതിസന്ധിയും | US - Iran Conflict Escalates : Kharg Island Attacks and Global Oil Crisis"
+              },
+              {
+                "url": "http://www.haberler.com/guncel/iran-abd-ve-israil-in-iha-taklitlerine-dikkat-cekti-19659035-haberi/",
+                "title": "İran ordusundan  ABD ve İsrail , İran İHA ını taklit ederek bölge ülkelerine saldırı düzenliyor  açıklaması"
+              },
+              {
+                "url": "https://www.haberler.com/guncel/iran-abd-ve-israil-in-iha-taklitlerine-dikkat-cekti-19659035-haberi/",
+                "title": "İran ordusundan  ABD ve İsrail , İran İHA ını taklit ederek bölge ülkelerine saldırı düzenliyor  açıklaması"
+              },
+              {
+                "url": "https://www.zeri.info/bota/615097/irani-njofton-sulme-paralajmeron-civilet-ne-emiratet-e-bashkuara-arabe-te-largohen-nga-portet-kryesore/",
+                "title": "Irani njofton sulme , paralajmëron civilët në Emiratet e Bashkuara Arabe të largohen nga portet kryesore"
+              },
+              {
+                "url": "https://bankwars.gr/%CF%84%CE%BF%CF%85%CE%BB%CE%AC%CF%87%CE%B9%CF%83%CF%84%CE%BF%CE%BD-56-%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%B1-%CE%BA%CE%B1%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CE%BF%CE%AF-%CF%87%CF%8E/",
+                "title": "Τουλάχιστον 56 μουσεία και ιστορικοί χώροι έχουν καταστραφεί στο Ιράν από τον πόλεμο"
+              },
+              {
+                "url": "https://www.chinesepress.com/archives/134956",
+                "title": " （ 国际观察 ） 伊朗新任最高领袖首次发声 ： 坚决  亮剑  复仇 硬刚美以到底 - 华侨网"
+              },
+              {
+                "url": "https://voxnews.al/aktualitet/raketat-duhet-te-kalojne-mbi-turqi-ose-greqi-a-rrezikohen-shqiperia-d-i112312",
+                "title": "  Raketat duhet të kalojnë mbi Turqi ose Greqi  - A rrezikohen Shqipëria dhe Kosova nga Irani ? "
+              }
+            ]
+          },
+          {
+            "bin": -7,
+            "count": 1017,
+            "toparts": [
+              {
+                "url": "https://news.mail.ru/society/70159057/",
+                "title": "В Турции отвергли планы на вступление в войну на Ближнем Востоке : « Хотим быть вне » "
+              },
+              {
+                "url": "https://www.lrt.lt/naujienos/pasaulyje/6/2867007/irano-valstybine-televizija-iranas-paleido-nauja-raketu-salve-i-izraeli",
+                "title": "Irano valstybinė televizija : Iranas paleido naują raketų salvę į Izraelį"
+              },
+              {
+                "url": "https://www.elnuevodia.com/negocios/turismo/fotogalerias/asi-se-ve-el-impacto-de-la-guerra-de-iran-en-el-turismo-de-dubai/",
+                "title": "Así se ve el impacto de la guerra de Irán en el turismo de Dubái"
+              },
+              {
+                "url": "https://www.yangtse.com/news/txs/202603/t20260314_331565.html",
+                "title": "伊朗高级指挥官 ： 结束战争有两个条件"
+              },
+              {
+                "url": "https://news.fznews.com.cn/gngj/20260314/j82t7F8779.shtml",
+                "title": "伊朗高级指挥官 ： 结束战争有两个条件 _ 天下 _ 新闻频道 _ 福州新闻网"
+              },
+              {
+                "url": "https://mil.ifeng.com/c/8rRodbFONN4",
+                "title": "伊朗最高领袖 ： 不会放弃复仇 继续封锁霍尔木兹海峡"
+              },
+              {
+                "url": "https://janayugomonline.com/us-attack-on-irans-oil-export-facility-trumps-warning/",
+                "title": "ഇറാന്റെ എണ്ണക്കയറ്റുമതി കേന്ദ്രത്തിന് നേരെ അമേരിക്കൻ ആക്രമണം ; ആയുധം വെച്ച് കീഴടങ്ങാൻ ട്രംപിന്റെ മുന്നറിയിപ്പ്"
+              },
+              {
+                "url": "https://www.zazoom.it/2026-03-14/guerra-usa-iran-gli-obiettivi-colpiti-sullisola-di-kharg-il-giallo-della-super-petroliera-ormeggiata/18836992/",
+                "title": "Guerra united states - Iran gli obiettivi colpiti sull  isola di Kharg Il giallo della super petroliera ormeggiata"
+              },
+              {
+                "url": "https://military.china.com/news/13004177/20260314/49321233.html",
+                "title": "伊朗新一波打击目标系美以指挥官 局势升级引发关注 _ 军事频道 _ 中华网"
+              },
+              {
+                "url": "https://www.nettavisen.no/nyheter/iran-truer-med-angrep-pa-oljeselskaper-etter-kharg-angrep/s/5-95-2931752",
+                "title": "USA , Iran | Iran truer med angrep på oljeselskaper etter Kharg - angrep"
+              }
+            ]
+          },
+          {
+            "bin": -6,
+            "count": 1686,
+            "toparts": [
+              {
+                "url": "https://www.punjabitribuneonline.com/news/nation/america-destroyed-iranian-military-bases/",
+                "title": "ਅਮਰੀਕਾ ਨੇ ਇਰਾਨੀ ਫੌਜੀ ਟਿਕਾਣੇ ਤਬਾਹ ਕੀਤੇ - Punjabi Tribune"
+              },
+              {
+                "url": "https://unternehmen-heute.de/news.php?newsid=6691418",
+                "title": "Politik - Drei iranische Fußballerinnen ziehen Asylantrag in Australien zurück"
+              },
+              {
+                "url": "https://sipse.com/mundo/hegseth-asegura-que-lider-irani-esta-desfigurado-iran-lo-niega-505709.html",
+                "title": "Hegseth asegura que líder iraní está desfigurado ; Irán lo niega"
+              },
+              {
+                "url": "https://world.qianlong.com/2026/0314/8640190.shtml",
+                "title": "视频丨伊朗多地举行集会 民众谴责美以袭击"
+              },
+              {
+                "url": "http://www.haberler.com/spor/formula-1-de-bahreyn-ve-suudi-arabistan-grand-prix-leri-iptal-edildi-19659016-haberi/",
+                "title": "Formula 1 Bahreyn ve Suudi Arabistan yarışlarını iptal etti"
+              },
+              {
+                "url": "https://news.dahe.cn/2026/03-14/2066732.html",
+                "title": "视频丨伊朗多地举行集会 民众谴责美以袭击 - 大河网"
+              },
+              {
+                "url": "https://eaworldview.com/2026/03/war-on-iran-trump-lies-betrayal-and-choice-of-putin-over-us-troops/",
+                "title": "EA - Times Radio VideoCast : War on Iran - Trump Lies , Betrayal , and Choice of Putin Over US Troops"
+              },
+              {
+                "url": "https://bloknot.ru/politika/master-vykrutasov-tramp-nashel-sposob-krasivo-soskochit-s-irana-1502197.html",
+                "title": "Иран новости : мастер выкрутасов Дональд Трамп нашел способ красиво « соскочить » с Ирана - БлокнотРУ - Иран новости . Иран последние новости . Новости Ирана . Иран . Потери США в Иране на сегодня . Новости Иран . Война в Иране . Потери США в Иране 2026 . Кто победит Иран или США . Чем закончится война в Иране ? Прогноз войны в Иране . Иран и США последние новости . Иран США последние новости . Что будет дальше с Ираном последние новости . "
+              },
+              {
+                "url": "https://www.nbd.com.cn/articles/2026-03-14/4292366.html",
+                "title": "以色列集结大量坦克和装甲车辆 ！ 以军 ： 已对伊朗发动超7600次空袭 ， 打死超4000人 ！ 数百万伊朗民众不惧轰炸举行集会 ： 将团结一致 ， 奋战到底"
+              },
+              {
+                "url": "https://www.mathrubhumi.com/news/world/iran-threatens-retaliation-kharg-island-us-attack-fuwge2gd",
+                "title": "Iran Kharg Island | കനത്ത തിരിച്ചടിയുണ്ടാകുമെന്ന് ഇറാൻ ; പശ്ചിമേഷ്യയിലെ യുഎസ് എണ്ണക്കമ്പനികൾ ആക്രമിക്കും"
+              }
+            ]
+          },
+          {
+            "bin": -5,
+            "count": 2375,
+            "toparts": [
+              {
+                "url": "https://www.yucatan.com.mx/mundo/2026/03/14/iran-insta-a-desalojar-3-puertos-usados-para-atacar-isla-con-terminal-petrolera.html",
+                "title": "Irán insta a desalojar 3 puertos  usados para atacar  isla petrolera"
+              },
+              {
+                "url": "https://www.mk.ru/politics/2026/03/15/raketnyy-udar-po-zavodu-v-irane-unes-zhizni-15-chelovek.html",
+                "title": "Ракетный удар по заводу в Иране унес жизни 15 человек"
+              },
+              {
+                "url": "https://www.hallandsposten.se/nyheter/varlden/trump-vill-se-laginsats-kring-hormuzsundet.c02a4421-853a-51ba-af54-23ee4029cd4a",
+                "title": "Trump vill se  laginsats  kring Hormuzsundet"
+              },
+              {
+                "url": "https://ria.ru/20260314/iran-2080611429.html",
+                "title": "Иран начал новую волну ракетных атак по Израилю"
+              },
+              {
+                "url": "https://www.aaj.tv/news/30501652/",
+                "title": "اسرائیلی فوجی ایرانی کلسٹر بموں سے خوف زدہ ہیں ، بلوم برگ کا دعویٰ - World"
+              },
+              {
+                "url": "https://ria.ru/20260314/iran-2080658681.html",
+                "title": "ВС Ирана выступили с предупреждением на фоне продолжения конфликта"
+              },
+              {
+                "url": "https://ria.ru/20260314/tramp-2080616966.html",
+                "title": "  Трамп расстроен : в США рассказали о неожиданном ходе Ирана - РИА Новости , 14 . 03 . 2026"
+              },
+              {
+                "url": "https://ria.ru/20260314/iran-2080726763.html",
+                "title": "В Иране не менее 15 человек погибли при ударе по промзоне"
+              },
+              {
+                "url": "https://www.gmx.ch/magazine/politik/nahostkonflikt/drohnenangriffe-internationalen-flughafen-kuwait-42006000",
+                "title": "Erneut Drohnenangriffe auf internationalen Flughafen in Kuwait"
+              },
+              {
+                "url": "https://news.cnr.cn/sq/20260314/t20260314_527551185.shtml",
+                "title": "战事持续两周 美以接连增兵 伊朗单日发起4轮反击 _ 央广网"
+              }
+            ]
+          },
+          {
+            "bin": -4,
+            "count": 2296,
+            "toparts": [
+              {
+                "url": "https://baijiahao.baidu.com/s?id=1859678954041358418",
+                "title": "美高级官员 ： 特朗普拒绝与伊朗启动停火谈判 ， 我们将继续执行任务 ， 也许某一天会谈 ， 但现在不会"
+              },
+              {
+                "url": "https://finance.ifeng.com/c/8rUyhVFvstv",
+                "title": "特朗普 ： 将联合多国派遣军舰 确保霍尔木兹海峡畅通"
+              },
+              {
+                "url": "https://www.whec.com/ap-top-news/ap-top-news-international/tehran-claims-the-us-attacked-it-from-the-uae-as-iran-war-enters-its-third-week/",
+                "title": "Tehran claims the US attacked it from the UAE as Iran war enters its third week"
+              },
+              {
+                "url": "https://bankwars.gr/%CE%BF-%CF%84%CF%81%CE%B1%CE%BC%CF%80-%CE%B1%CF%80%CE%BF%CF%81%CF%81%CE%AF%CF%80%CF%84%CE%B5%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CF%80%CE%AC%CE%B8%CE%B5%CE%B9%CE%B5%CF%82-%CE%B3%CE%B9%CE%B1-%CE%AD%CE%BD/",
+                "title": "Ο Τραμπ απορρίπτει προσπάθειες για έναρξη διαπραγματεύσεων - ΙΡΑΝ : « Κανένα πρόβλημα » με τον Μοτζταμπά Χαμενεΐ"
+              },
+              {
+                "url": "https://news.tvbs.com.tw/world/3150931",
+                "title": "快訊 ／ 川普發飆了 ！ 下令轟炸 「 伊朗哈爾克島 」 全摧毀│TVBS新聞網"
+              },
+              {
+                "url": "https://ria.ru/20260314/fregat-2080636671.html",
+                "title": "Шри - Ланка репатриировала останки 84 иранских моряков с затопленного фрегата"
+              },
+              {
+                "url": "https://world.qianlong.com/2026/0314/8640038.shtml",
+                "title": "以军 ： 累计空袭伊朗7600余次 并为战事持续做准备"
+              },
+              {
+                "url": "https://az.trend.az/other/world/4164991.html",
+                "title": "İran ordusu ABŞ - yə aid tankeri vurub - KİV"
+              },
+              {
+                "url": "https://365.com.mk/tramp-isprakjame-voeni-brodovi-vo-ormuskiot-tesnec-se-ochekuva-i-kina-i-evropskite-zemji/",
+                "title": "Трамп : Испраќаме воени бродови во Ормускиот теснец , се очекува и Кина и европските земји . "
+              },
+              {
+                "url": "https://www.turkiyegazetesi.com.tr/spor/irandan-fifaya-kritik-cagri-abd-dunya-kupasindan-cikarilsin-1777113",
+                "title": "İrandan FIFAya kritik çağrı : ABD Dünya Kupası  ndan çıkarılsın"
+              }
+            ]
+          },
+          {
+            "bin": -3,
+            "count": 1938,
+            "toparts": [
+              {
+                "url": "https://diariolaprovinciasj.com/el-mundo/escala-la-tension-trump-dijo-que-enviaran-buques-al-estrecho-de-ormuz-318289/",
+                "title": "Escala la tensión : Trump dijo que enviarán buques al estrecho de Ormuz"
+              },
+              {
+                "url": "https://businessnews.com.tn/2026/03/14/moyen-orient-trump-mobilise-pour-ormuz-teheran-appelle-a-chasser-les-forces-americaines/1392170/",
+                "title": "Moyen - Orient : Trump mobilise pour Ormuz , Téhéran appelle à chasser les forces américaines"
+              },
+              {
+                "url": "https://www.syri.net/bote/872175/trump-ben-thirrje-per-anije-luftarake-aleate-pas-kercenimit-te-iranit-per-hakmarrje/",
+                "title": "Trump bën thirrje për anije luftarake aleate pas - Syri"
+              },
+              {
+                "url": "https://www.nbcconnecticut.com/news/politics/president-trump/iran-negotiate-ceasefire-deal-trump-kharg-hormuz-oil/3713939/",
+                "title": "Trump says Iran is ready to negotiate a ceasefire but he not ready to make a deal"
+              },
+              {
+                "url": "https://www.aol.com/articles/trump-says-iran-ready-negotiate-231205210.html",
+                "title": "Trump says Iran is ready to negotiate a ceasefire but he not ready to make a deal"
+              },
+              {
+                "url": "https://finance.ifeng.com/c/8rUy9V1Q2rK",
+                "title": "环球下周看点 ： 全球聚焦中东冲突走向 超级央行周重磅来袭"
+              },
+              {
+                "url": "https://www.vesti.ru/ns/ksir-osvobodil-iz-pod-aresta-neskolko-tankerov-s-neftyu",
+                "title": "КСИР освободил из - под ареста несколько танкеров с нефтью"
+              },
+              {
+                "url": "https://ec.ltn.com.tw/article/breakingnews/5370466",
+                "title": "美軍狂炸伊朗石油命脈 哈爾克島重要性一次說清楚"
+              },
+              {
+                "url": "https://baijiahao.baidu.com/s?id=1859593255133266453",
+                "title": "伊朗举行大型集会 ， 伊朗总统 、 最高国家安全委员会秘书 、 外交部长等现身"
+              },
+              {
+                "url": "https://news.day.az/azerinews/1822095.html",
+                "title": "İranın bütn planları məhvə dar olub"
+              }
+            ]
+          },
+          {
+            "bin": -2,
+            "count": 1489,
+            "toparts": [
+              {
+                "url": "https://www.aksam.com.tr/guncel/orta-doguda-savas-16gununde-demir-kubbe-etkisiz-hale-geldi-israilde-sirenler-susmuyor/haber-1650974",
+                "title": "Orta Doðuda savaþ 16 . gününde ! Demir Kubbe etkisiz hale geldi , Ýsrailde sirenler susmuyor"
+              },
+              {
+                "url": "https://mil.ifeng.com/c/8rRMTMpZnvJ",
+                "title": "解密俄罗斯300年  伊朗战略 ： 三代不变的战略通道争夺史 _ 凤凰网"
+              },
+              {
+                "url": "https://www.wenxuecity.com/news/2026/03/14/126573523.html",
+                "title": "伊朗女足获庇护4人重戴头巾返伊 体育部长保证安全"
+              },
+              {
+                "url": "https://az.trend.az/other/world/4165015.html",
+                "title": "İranın bütn planları məhvə dar olub - Tramp"
+              },
+              {
+                "url": "https://finance.eastmoney.com/a/202603143672172719.html",
+                "title": "霍尔木兹海峡突发 ！ 特朗普 ： 发动猛烈空袭 ！ 伊朗 ： 发射30枚超重型导弹 _ 东方财富网"
+              },
+              {
+                "url": "https://www.stcn.com/article/detail/3677145.html",
+                "title": "霍尔木兹海峡 ， 突发 ！ 特朗普 ： 发动猛烈空袭 ！ 伊朗 ： 发射30枚超重型导弹"
+              },
+              {
+                "url": "https://www.dw.com/ru/zelenskij-vstretilsa-v-parize-s-synom-iranskogo-saha/a-76357515",
+                "title": "Зеленский встретился в Париже с сыном иранского шаха"
+              },
+              {
+                "url": "https://ayna.az/tramp-obamanin-iranla-nuve-sazisini-laga-qoydu",
+                "title": "Tramp Obamanın İranla nüvə sazişini lağa qoydu"
+              },
+              {
+                "url": "https://www.hani.co.kr/arti/international/arabafrica/1249328.html",
+                "title": "트럼프 , 하루 두 차례 글 올려 한 · 중 · 일 등 5개국에 호르무즈 군함 파견 요구"
+              },
+              {
+                "url": "https://www.bfm.ru/news/600748",
+                "title": "Иранский депутат объявил Украину « законной военной целью » Тегерана"
+              }
+            ]
+          },
+          {
+            "bin": -1,
+            "count": 945,
+            "toparts": [
+              {
+                "url": "https://ria.ru/20260315/proliv-2080737056.html",
+                "title": "Трамп не знает , минирует ли Иран Ормузский пролив"
+              },
+              {
+                "url": "https://ria.ru/20260315/tramp-2080736835.html",
+                "title": "Трамп пообещал вернуть антироссийские санкции"
+              },
+              {
+                "url": "https://www.themarysue.com/the-most-successful-con-artist-in-a-twist-donald-trump-says-his-iran-war-isnt-about-iran/",
+                "title": "  The most successful con artist : In a twist , Donald Trump says his Iran war isnt about Iran"
+              },
+              {
+                "url": "https://gazeta.kg/policy/180215-ssha-objavili-nagradu-do-10-millionov-za-informaciju-o-kljuchevyh-chinovnikah-irana.html",
+                "title": "США объявили награду до $10 миллионов за информацию о ключевых чиновниках Ирана » Gazeta . kg новости Кыргызстана и Бишкека сегодня"
+              },
+              {
+                "url": "https://www.aaj.tv/news/30501599/",
+                "title": "  امریکا میں رہائش اور لاکھوں ڈالرز : ٹرمپ انتظامیہ کی ایرانی قیادت کی اطلاع دینے پر شہریوں کو لالچ - World"
+              },
+              {
+                "url": "https://www.yeniasya.com.tr/dr-aytekin-coskun/iran-in-yeni-lideri_620497",
+                "title": "İran  ın yeni lideri - YENİ ASYA"
+              },
+              {
+                "url": "http://www.koreatimes.com/article/20260313/1605035",
+                "title": "  트럼프 , 푸틴  이란 무기급 핵원료 러시아 보관  제안에 퇴짜  "
+              },
+              {
+                "url": "https://news.ltn.com.tw/news/world/breakingnews/5369861",
+                "title": "Axios ： 普廷再提伊朗濃縮鈾交俄換止戰被川普拒絕 - 國際"
+              },
+              {
+                "url": "https://www.turkiyegazetesi.com.tr/dunya/irandan-israil-istihbaratina-siber-saldiri-pilotlarin-kimlikleri-ve-fotograflari-tek-1777090",
+                "title": "İrandan İsrail istihbaratına siber saldırı ! Pilotların kimlikleri ve fotoğrafları tek tek ifşa edildi"
+              },
+              {
+                "url": "https://news.mail.ru/society/70157662/",
+                "title": "МИД Ирана высказался о состоянии недавно избранного верховного лидера страны Моджтаба Хаменеи"
+              }
+            ]
+          },
+          {
+            "bin": 0,
+            "count": 820,
+            "toparts": [
+              {
+                "url": "https://www.9tv.co.il/item/210757",
+                "title": "На всех и беда одна : Нетаниягу просит Зеленского о помощи"
+              },
+              {
+                "url": "https://ria.ru/20260314/ukraina-2080675994.html",
+                "title": "В Иране назвали Украину законной целью для ударов"
+              },
+              {
+                "url": "https://ria.ru/20260314/izrail-2080610444.html",
+                "title": "В Израиле зафиксировали новый пуск ракет из Ирана"
+              },
+              {
+                "url": "https://ria.ru/20260314/iran-2080613195.html",
+                "title": "В Иране назвали условия для прохождения Ормузского пролива , пишут СМИ"
+              },
+              {
+                "url": "https://ria.ru/20260314/izrail-2080676432.html",
+                "title": "Израиль зафиксировал новый запуск ракет из Ирана"
+              },
+              {
+                "url": "https://ria.ru/20260314/iran-2080611250.html",
+                "title": "  Полная неожиданность . В США сообщили о нестандартном шаге Ирана"
+              },
+              {
+                "url": "https://ria.ru/20260314/iran-2080656166.html",
+                "title": "В Иране рассказали о работе нефтяных компаний на острове Харк"
+              },
+              {
+                "url": "https://lurer.com/article/718904/am",
+                "title": "Lurer . com | Իրանը հարվածել է Իսրայելի հետախուզական կենտրոններին"
+              },
+              {
+                "url": "https://www.haber7.com/dunya/haber/3611850-trump-hark-adasini-vurduk-tamamen-yok-edildi",
+                "title": "Trump : Hark adasını vurduk !  Tamamen yok edildi  "
+              },
+              {
+                "url": "https://www.dunya.com/dunya/abd-liste-yayinladi-hamaneyi-ihbar-edene-10-milyon-dolar-haberi-818245",
+                "title": "ABD liste yayınladı : Hamaneyi ihbar edene 10 milyon dolar"
+              }
+            ]
+          },
+          {
+            "bin": 1,
+            "count": 326,
+            "toparts": [
+              {
+                "url": "https://ria.ru/20260314/iran-2080609026.html",
+                "title": "Иран не будет открывать новый фронт с мусульманскими странами , заявил посол"
+              },
+              {
+                "url": "https://www.internethaber.com/iranin-yeni-lideri-icin-para-odulu-abd-listeyi-paylasti-isimleri-tek-tek-yazdi-2435243h.htm",
+                "title": "İran  ın yeni lideri için para ödülü ! ABD listeyi paylaştı , isimleri tek tek yazdı"
+              },
+              {
+                "url": "https://dailyinqilab.com/international/news/873950",
+                "title": "পুতিন ইরানকে  কিঞ্চিৎ  সাহায্য করছেন , বিস্ফোরক দাবি ট্রাম্পের"
+              },
+              {
+                "url": "https://www.ntv.com.tr/dunya/iran-turkiyeye-hem-tesekkur-ediyor-hem-fuze-atiyor-1715880",
+                "title": "İran Türkiyeye hem teşekkür ediyor hem füze atıyor"
+              },
+              {
+                "url": "https://www.kibrispostasi.com/c37-DUNYA/n595447-iran-turkiyeye-hem-tesekkur-ediyor-hem-fuze-atiyor",
+                "title": "İran Türkiyeye hem teşekkür ediyor hem füze atıyor"
+              },
+              {
+                "url": "https://www.delfi.lt/naujienos/uzsienyje/iranas-grasina-smogti-ukrainai-uz-pagalba-izraeliui-120223732",
+                "title": "Iranas grasina smogti Ukrainai už pagalbą Izraeliui"
+              },
+              {
+                "url": "https://www.71sangbad.com/news/150698",
+                "title": "ইসরাইলের দিকে একযোগে ৩০টি ক্ষেপণাস্ত্র ছুড়ল ইরান"
+              },
+              {
+                "url": "https://www.adalet.az/az/posts/detail/abs-iran-neftinin-90-faizinin-dasindigi-o-adani-vurdu-1773462942",
+                "title": "ABŞ İran neftinin 90 faizinin daşındığı o adanı vurdu"
+              },
+              {
+                "url": "https://sana.sy/tr/international/2286703/",
+                "title": "Trump : İran Yenildi , Kabul Edemeyeceğim Anlaşma İstiyor"
+              },
+              {
+                "url": "https://www.interfax.ru/world/1077836",
+                "title": "СМИ сообщили о решении хуситов поддержать Иран в войне против Израиля и США"
+              }
+            ]
+          },
+          {
+            "bin": 2,
+            "count": 206,
+            "toparts": [
+              {
+                "url": "https://ria.ru/20260314/bpla-2080654607.html",
+                "title": "Иран нанес удары по разведывательным центрам Израиля"
+              },
+              {
+                "url": "https://www.arthosuchak.com/archives/951200/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B9%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%81/",
+                "title": "ইরানকে সহযোগিতা করছেন পুতিন : ট্রাম্প"
+              },
+              {
+                "url": "http://russian.news.cn/20260314/b0b3348d1cd246dc81f85110ad8b4987/c.html",
+                "title": "Вся политика правительства согласовывается с верховным лидером Ирана -- президент _ Russian . news . cn"
+              },
+              {
+                "url": "https://www.haberler.com/guncel/abd-iran-a-hava-saldirisi-duzenledi-19656594-haberi/",
+                "title": "ABD Ordusu İran  ın Petrol İhracat Merkezi Harg Adası  nı Vurdu"
+              },
+              {
+                "url": "https://www.ogunhaber.com/dunya/abd-ordusu-iranin-petrol-ihracat-merkezi-harg-adasini-vurdu-2998603h.html",
+                "title": "ABD ordusu İran  ın petrol ihracat merkezi Harg Adası  nı vurdu"
+              },
+              {
+                "url": "https://www.mersinhaber.com/haber-washingtonda-trump-iranin-anlasma-istedigini-ancak-kabul-etmeyecegini-belirtti/573048",
+                "title": "Washingtonda Trump , İran  ın Anlaşma İstediğini Ancak Kabul Etmeyeceğini Belirtti"
+              },
+              {
+                "url": "https://redstate.com/wardclark/2026/03/14/how-might-iran-be-rebuilt-a-three-phase-plan-n2200223",
+                "title": "How Might Iran be Rebuilt : A Three - Phase Plan"
+              },
+              {
+                "url": "https://news.mail.ru/politics/70151845/",
+                "title": "Посол Ирана в РФ сообщил о возможной встрече Путина и Хаменеи на саммите"
+              },
+              {
+                "url": "https://lurer.com/article/718955/am",
+                "title": "Lurer . com | Հայտնի է Պուտինի և Իրանի նոր առաջնորդի հանդիպման հնարավոր վայրը"
+              },
+              {
+                "url": "https://life.ru/p/1851858",
+                "title": "Посол Ирана в РФ сообщил о возможной встрече Путина и Хаменеи на саммите"
+              }
+            ]
+          },
+          {
+            "bin": 3,
+            "count": 98,
+            "toparts": [
+              {
+                "url": "https://ria.ru/20260314/rakety-2080615623.html",
+                "title": "Иранские ракеты за двое суток в два раза чаще попадали по целям , пишут СМИ"
+              },
+              {
+                "url": "https://www.portalanalitika.me/clanak/sad-nude-10-miliona-dolara-za-informacije-o-glavnim-liderima-irana",
+                "title": "SAD nude 10 miliona dolara za informacije o glavnim liderima Irana"
+              },
+              {
+                "url": "https://time.mk/c/2535d3f944/ukraina-stanuva-meta-na-iranskite-sili-iran-mu-zameri-na-zelenski-za-poddrskata-na-izrael-protiv-iranskite-dronovi.html",
+                "title": "УКРАИНА СТАНУВА МЕТА НА ИРАНСКИТЕ СИЛИ Иран му замери на Зеленски за поддршката на Израел против иранските дронови"
+              },
+              {
+                "url": "https://www.politika.rs/scc/clanak/738826/jemen-najavio-podrsku-iranu-protiv-americko-izraelskih-napada",
+                "title": "Јемен најавио подршку Ирану против америчко - израелских напада"
+              },
+              {
+                "url": "https://www.sopitas.com/noticias/estados-unidos-recompensa-lider-supremo-iran-mojtaba-jamenei/",
+                "title": "Estados Unidos le pone precio al nuevo líder supremo de Irán : ofrecen recompensa de 10 millones de dólares"
+              },
+              {
+                "url": "https://iranpressnews.com/source/245443.htm",
+                "title": "IranPressNews : ايران پرس نيوز اخبار ايران و جهان"
+              },
+              {
+                "url": "https://www.adalet.az/az/posts/detail/abs-xameneinin-basina-10-milyon-dollar-pul-qoydu-1773461957",
+                "title": "ABŞ Xameneinin başına 10 milyon dollar pul qoydu"
+              },
+              {
+                "url": "https://lurer.com/article/718983/am",
+                "title": "Lurer . com | Իրանը Ուկրաինան հայտարարել է « օրինական թիրախ »՝ Իսրայելին աջակցելու պատճառով"
+              },
+              {
+                "url": "https://news.ltn.com.tw/news/world/breakingnews/5369723",
+                "title": "鎖定伊朗最高領袖等人 ！ 美國懸賞逾3億尋高層情報 - 國際"
+              },
+              {
+                "url": "https://www.manoramanews.com/gulf-and-global/middle-east/2026/03/14/iran-sanctions-relief-lpg-ships-hormuz.html",
+                "title": "Indian LPG Vessels Get Green Light Through Hormuz Strait | എല്‍പിജിയുമായി ഇന്ത്യന്‍ കപ്പലുകള്‍ ഹോര്‍മൂസ് കടന്നു ; നയതന്ത്രവിജയമെന്ന് കേന്ദ്രം"
+              }
+            ]
+          },
+          {
+            "bin": 4,
+            "count": 67,
+            "toparts": [
+              {
+                "url": "https://ria.ru/20260314/iran-2080615168.html",
+                "title": "Моджтаба Хаменеи соответствует роли верховного лидера Ирана , заявил посол"
+              },
+              {
+                "url": "https://www.focus-news.net/novini/mejdunarodni/Aragchi-blagodari-na-Turciya-za-solidarnostta-s-Iran-2923552",
+                "title": "Арагчи благодари на Турция за солидарността с Иран"
+              },
+              {
+                "url": "https://www.focus-news.net/novini/mejdunarodni/Aragchi-blagodari-na-Turciya-za-solid-2923552",
+                "title": "Арагчи благодари на Турция за солидарността с Иран"
+              },
+              {
+                "url": "https://www.interfax.ru/world/1077805",
+                "title": "Госдеп США обещает до $10 млн за информацию о новом лидере Ирана"
+              },
+              {
+                "url": "https://ria.ru/20260314/tramp-2080721019.html",
+                "title": "Трамп рассказал , кто должен обеспечивать безопасность Ормузского пролива"
+              },
+              {
+                "url": "https://kp.ua/ua/politics/a726830-v-irani-zahrozhujut-ukrajini-udarami-nazivajuchi-zakonnoju-metoju-cherez-dopomohu-izrajilju-dronami",
+                "title": "В Ірані загрожують Україні ударами , називаючи  законною ціллю  через допомогу Ізраїлю дронами"
+              },
+              {
+                "url": "https://www.haberler.com/dunya/trump-iran-anlasma-istiyor-ama-benim-sartlarim-gecerli-degil-19657086-haberi/",
+                "title": "Trump : İran anlaşma istiyor ama bunu kabul etmem"
+              },
+              {
+                "url": "https://kashmirreader.com/2026/03/15/islam-came-to-kashmir-via-iran-mehbooba-hails-kashmiris-solidarity-with-tehran/",
+                "title": "Islam came to Kashmir via Iran : Mehbooba hails Kashmiri solidarity with Tehran"
+              },
+              {
+                "url": "https://www.whmi.com/news/fox/us-offers-10m-reward-info-irans-new-supreme-leader-top-irgc-officials",
+                "title": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit"
+              },
+              {
+                "url": "https://www.andhrajyothy.com/2026/national/two-india-flagged-shipping-corporation-of-india-lpg-tankers-have-crossed-the-strait-of-hormuz-avr-1503707.html",
+                "title": "హోర్ముజ్ దాటిన 2 భారత ఎల్పీజీ నౌకలు .. ఫలించిన భారత్ దౌత్యం | Two India flagged Shipping Corporation of India LPG tankers have crossed the Strait of Hormuz AVR"
+              }
+            ]
+          },
+          {
+            "bin": 5,
+            "count": 30,
+            "toparts": [
+              {
+                "url": "https://www.samanyoluhaber.com/iranin-ankara-buyukelciliginden-fuze-iddiasina-net-yanit-biz-atmadik-haberi/1486032",
+                "title": "İran  ın Ankara Büyükelçiliğinden Füze İddiasına Net Yanıt :  Biz atmadık  "
+              },
+              {
+                "url": "https://www.haberaktuel.com/abd-den-iranli-yetkililere-10-milyon-dolar-odul-3424496",
+                "title": "ABDden İranlı Yetkililere 10 Milyon Dolar Ödül"
+              },
+              {
+                "url": "https://www.haberaktuel.com/iran-disisleri-bakani-abbas-arakci-turkiye-ye-tesekkur-etti-3424500",
+                "title": "İran Dışişleri Bakanı Abbas Arakçi Türkiyeye Teşekkür Etti"
+              },
+              {
+                "url": "https://www.novosti.rs/planeta/svet/1585655/najnovija-vest-bliskog-istoka-iran-dozvolio-pojedinim-brodovima-prolaz-kroz-ormuski-moreuz",
+                "title": "NAJNOVIJA VEST SA BLISKOG ISTOKA : Iran dozvolio pojedinim brodovima prolaz kroz Ormuski moreuz"
+              },
+              {
+                "url": "https://javedch.com/international/2026/03/14/1111969",
+                "title": "امریکہ نے مجتبیٰ خامنہ ای کی معلومات دینے پر 10 ملین ڈالر کی پیشکش کردی"
+              },
+              {
+                "url": "https://www.panorama.com.al/trump-irani-eshte-plotesisht-i-mundur-tani-po-kerkon-me-ngulm-nje-marreveshje/",
+                "title": "Trump : Irani është plotësisht i mundur , tani po kërkon me ngulm një marrëveshje"
+              },
+              {
+                "url": "https://www.haberaktuel.com/abd-den-iranli-ust-duzey-yetkililere-para-odulu-aciklamasi-3424530",
+                "title": "ABDden İranlı Üst Düzey Yetkililere Para Ödülü Açıklaması"
+              },
+              {
+                "url": "https://www.evrensel.net/haber/5975155/abdnin-hedef-listesini-acikladi-hamaney-ve-iranli-ust-duzey-liderler-icin-10-milyon-dolar-odul",
+                "title": "ABDnin hedef listesini açıkladı : Hamaney ve İranlı üst düzey liderler için 10 milyon dolar ödül - Evrensel"
+              },
+              {
+                "url": "https://www.evrensel.net/haber/5975155/abd-hedef-listesini-acikladi-hamaney-ve-iranli-ust-duzey-liderler-icin-10-milyon-dolar-odul",
+                "title": "ABD hedef listesini açıkladı : Hamaney ve İranlı üst düzey liderler için 10 milyon dolar ödül - Evrensel"
+              },
+              {
+                "url": "https://www.thehitavada.com/Encyc/2026/3/14/yes-for-friend-india-.html",
+                "title": "  Yes for friend India  - The Hitavada"
+              }
+            ]
+          },
+          {
+            "bin": 6,
+            "count": 12,
+            "toparts": [
+              {
+                "url": "https://geotimes.com.ge/?m=5&news_id=123163&cat_id=88",
+                "title": "Geotimes - სიახლეები"
+              },
+              {
+                "url": "https://mignews.com/news/politic/iran-razreshil-indijskim-sudam-projti-cherez-ormuzskij-proliv.html",
+                "title": "Иран разрешил индийским судам пройти через Ормузский пролив | MigNews - Новости Израиля и Мира на русском языке"
+              },
+              {
+                "url": "https://www.medyafaresi.com/haber/gerilim-sonrasi-irandan-dikkat-ceken-hamle-bakan-erakci-turkce-konustu/1040448",
+                "title": "Gerilim sonrası İrandan dikkat çeken hamle : Bakan Erakçi Türkçe konuştu"
+              },
+              {
+                "url": "https://1news.az/news/20260314032240930-Iran-predostavil-indiiskim-sudam-bezopasnyi-prokhod-cherez-Ormuzskii-proliv",
+                "title": "Иран предоставил индийским судам безопасный проход через Ормузский пролив"
+              },
+              {
+                "url": "https://www.star.com.tr/dunya/abd-dolarina-hurmuz-bogazi-kiskaci-irandan-stratejik-petrol-hamlesi-haber-2003028/",
+                "title": "ABD dolarýna Hürmüz Boðazý kýskacý : Ýrandan stratejik petrol hamlesi"
+              },
+              {
+                "url": "https://article.wn.com/view/2026/03/14/Khamenei_got_martyrdom_the_best_gift_from_Allah_during_Ramad/",
+                "title": "Khamenei got martyrdom , the best gift from Allah during Ramadan : Iran leader aide"
+              },
+              {
+                "url": "https://kontrakty.ua/article/284867",
+                "title": "Трамп раптово  охолов  до Нобелівської премії миру"
+              },
+              {
+                "url": "https://www.havasunews.com/opinion/bryan-davia-renewable-energy/article_d29bc3cc-d031-4fa3-9e51-b97befa65f4b.html",
+                "title": "Bryan Davia : Renewable energy"
+              },
+              {
+                "url": "https://spnfa.ir/20260314/28657387.html",
+                "title": "خبرنگار اسپوتنیک از بازارچه تجریش : عرضه اقلام و مواد خوراکی بطور مداوم انجام می‌شود"
+              },
+              {
+                "url": "https://sudanjem.com/jem7665/",
+                "title": "العدل والمساواة تنظم مأدبة افطار رمضاني شرفها عضو مجلس السيادة شمس الدين كباشي - حركة العدل و المساواة السودانية"
+              }
+            ]
+          },
+          {
+            "bin": 7,
+            "count": 6,
+            "toparts": [
+              {
+                "url": "https://www.71sangbad.com/news/150695",
+                "title": "মোজতবা খামেনিসহ ইরানের শীর্ষ নেতাদের ধরতে কোটি ডলার পুরস্কার ঘোষণা"
+              },
+              {
+                "url": "https://dailynayadiganta.com/international/america/ewD6tr20sHwC",
+                "title": "ইরান সম্পূর্ণ পরাজিত , তারা চুক্তি করতে চায় : ট্রাম্প"
+              },
+              {
+                "url": "https://www.turktime.com/haber/abd-den-hamaney-i-ihbar-edene/740228",
+                "title": "ABDden Hamaneyi ihbar edene – Güncel Haberler , Son Dakika Haberleri , Turktime Haber Portalı"
+              },
+              {
+                "url": "https://tdh.gov.tm/index.php/en/post/47986/it-prescribed-send-humanitarian-aid-people-islamic-republic-iran",
+                "title": "It is prescribed to send humanitarian aid to the people of the Islamic Republic of Iran"
+              },
+              {
+                "url": "https://www.gdnonline.com:443/Details/1378545",
+                "title": "Bahrain News : SECURITY FIRST : King praises Interior Ministry role in safeguarding the kingdom"
+              },
+              {
+                "url": "https://www.gdnonline.com:443/Details/1378545/SECURITY-FIRST-King-praises-Interior-Ministrys-role-in-safeguarding-the-kingdom-",
+                "title": "Bahrain News : SECURITY FIRST : King praises Interior Ministry role in safeguarding the kingdom"
+              }
+            ]
+          },
+          {
+            "bin": 8,
+            "count": 5,
+            "toparts": [
+              {
+                "url": "https://ua.interfax.com.ua/news/general/1151600.html",
+                "title": "Спадкоємний принц Ірану Пахлаві подякував Зеленському за солідарність з іранським народом"
+              },
+              {
+                "url": "https://www.ntvbd.com/world/news-1704785",
+                "title": "পুতিন হয়তো ইরানকে  কিছুটা  সহায়তা করছেন : ট্রাম্প"
+              },
+              {
+                "url": "https://www.delfi.lv/kultura/52862727/screen/120110410/jauni-rekordi-iranas-ena-un-latvijas-parstavnieciba-svarigakais-par-oskaru-ceremoniju",
+                "title": "Jauni rekordi , Irānas ēna un Latvijas pārstāvniecība – svarīgākais par  Oskaru  ceremoniju"
+              },
+              {
+                "url": "https://kazpravda.kz/n/vesna-nachinaetsya-s-rukopozhatiya/",
+                "title": "Весна начинается с рукопожатия"
+              },
+              {
+                "url": "https://www.kocaeligazetesi.com.tr/haber/27629354/gunumuzde-14-mart-kutlama-mi-mucadele-mi",
+                "title": "Günümüzde 14 Mart : Kutlama mı , mücadele mi ? "
+              }
+            ]
+          },
+          {
+            "bin": 9,
+            "count": 1,
+            "toparts": [
+              {
+                "url": "https://time.mk/c/4607e1eeaf/vo-los-andzeles-vo-nedela-navecer-98-ta-ceremonija-na-dodeluvanje-na-nagradite-oskar.html",
+                "title": "Во Лос Анџелес во недела навечер , 98 - та церемонија на доделување на наградите „ Оскар  "
+              }
+            ]
+          },
+          {
+            "bin": 10,
+            "count": 0,
+            "toparts": []
+          },
+          {
+            "bin": 11,
+            "count": 2,
+            "toparts": [
+              {
+                "url": "https://ayna.az/iran-hormuz-bogazindan-hindistan-gemilerine-tehlukesiz-kecid-icazesi-verib",
+                "title": "İran Hörmüz boğazından Hindistan gəmilərinə təhlükəsiz keçid icazəsi verib"
+              },
+              {
+                "url": "https://www.dailysabah.com/politics/diplomacy/iran-fm-araghchi-thanks-turkiye-for-solidarity-in-turkish-message",
+                "title": "Iran FM Araghchi thanks Türkiye for solidarity in Turkish message"
+              }
+            ]
+          },
+          {
+            "bin": 12,
+            "count": 1,
+            "toparts": [
+              {
+                "url": "https://www.ntv.com.tr/dunya/abbas-arakciden-turkce-mesaj-1715880",
+                "title": "Abbas Arakçiden Türkçe mesaj"
+              }
+            ]
+          }
+        ]
+      },
+      "retrieved_at": "2026-03-15T00:24:09Z",
+      "vector_targets": [
+        "information_warfare"
+      ],
+      "class": "DATA"
+    }
+  ],
+  "market_data": [
+    {
+      "source": "Yahoo Finance",
+      "source_type": "market_data",
+      "symbol": "CL=F",
+      "label": "WTI Crude Oil",
+      "signal_type": "energy_price",
+      "price": 98.71,
+      "previous_close": 98.71,
+      "change_pct": 0.0,
+      "direction": "flat",
+      "retrieved_at": "2026-03-15T00:24:24Z",
+      "vector_targets": [
+        "financial_economic"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "Yahoo Finance",
+      "source_type": "market_data",
+      "symbol": "GC=F",
+      "label": "Gold Futures",
+      "signal_type": "safe_haven",
+      "price": 5061.7,
+      "previous_close": 5052.5,
+      "change_pct": 0.18,
+      "direction": "up",
+      "retrieved_at": "2026-03-15T00:24:24Z",
+      "vector_targets": [
+        "financial_economic"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "Yahoo Finance",
+      "source_type": "market_data",
+      "symbol": "SI=F",
+      "label": "Silver Futures",
+      "signal_type": "safe_haven",
+      "price": 81.34,
+      "previous_close": 80.91,
+      "change_pct": 0.53,
+      "direction": "up",
+      "retrieved_at": "2026-03-15T00:24:24Z",
+      "vector_targets": [
+        "financial_economic"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "Yahoo Finance",
+      "source_type": "market_data",
+      "symbol": "DX-Y.NYB",
+      "label": "US Dollar Index",
+      "signal_type": "dollar_strength",
+      "price": 100.5,
+      "previous_close": 100.36,
+      "change_pct": 0.13,
+      "direction": "up",
+      "retrieved_at": "2026-03-15T00:24:24Z",
+      "vector_targets": [
+        "financial_economic"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "Yahoo Finance",
+      "source_type": "market_data",
+      "symbol": "ITA",
+      "label": "iShares US Aerospace & Defense ETF",
+      "signal_type": "defense_sector",
+      "price": 229.34,
+      "previous_close": 229.34,
+      "change_pct": 0.0,
+      "direction": "flat",
+      "retrieved_at": "2026-03-15T00:24:24Z",
+      "vector_targets": [
+        "financial_economic"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "Yahoo Finance",
+      "source_type": "market_data",
+      "symbol": "^VIX",
+      "label": "CBOE Volatility Index",
+      "signal_type": "fear_gauge",
+      "price": 27.19,
+      "previous_close": 27.19,
+      "change_pct": 0.0,
+      "direction": "flat",
+      "retrieved_at": "2026-03-15T00:24:24Z",
+      "vector_targets": [
+        "financial_economic"
+      ],
+      "class": "DATA"
+    }
+  ],
+  "crypto_data": [
+    {
+      "source": "Coinbase",
+      "source_type": "crypto_price",
+      "symbol": "BTC-USD",
+      "label": "Bitcoin",
+      "price": 71031.925,
+      "currency": "USD",
+      "retrieved_at": "2026-03-15T00:24:24Z",
+      "vector_targets": [
+        "financial_economic"
+      ],
+      "class": "DATA"
+    },
+    {
+      "source": "Coinbase",
+      "source_type": "crypto_price",
+      "symbol": "ETH-USD",
+      "label": "Ethereum",
+      "price": 2090.56,
+      "currency": "USD",
+      "retrieved_at": "2026-03-15T00:24:24Z",
+      "vector_targets": [
+        "financial_economic"
+      ],
+      "class": "DATA"
+    }
+  ],
+  "fedwatch": [
+    {
+      "source": "Yahoo Finance (FedWatch proxy)",
+      "source_type": "treasury_yield",
+      "symbol": "^TNX",
+      "label": "10-Year Treasury Yield",
+      "signal_type": "treasury_10y",
+      "yield_pct": 4.285,
+      "retrieved_at": "2026-03-15T00:24:27Z",
+      "vector_targets": [
+        "financial_economic"
+      ],
+      "class": "DATA",
+      "analyst_note": "Treasury yield proxy. Inverted curve signals recession/stress."
+    },
+    {
+      "source": "Yahoo Finance (FedWatch proxy)",
+      "source_type": "treasury_yield",
+      "symbol": "^FVX",
+      "label": "5-Year Treasury Yield",
+      "signal_type": "treasury_5y",
+      "yield_pct": 3.874,
+      "retrieved_at": "2026-03-15T00:24:27Z",
+      "vector_targets": [
+        "financial_economic"
+      ],
+      "class": "DATA",
+      "analyst_note": "Treasury yield proxy. Inverted curve signals recession/stress."
+    },
+    {
+      "source": "Yahoo Finance (FedWatch proxy)",
+      "source_type": "treasury_yield",
+      "symbol": "^IRX",
+      "label": "13-Week Treasury Bill",
+      "signal_type": "treasury_13w",
+      "yield_pct": 3.603,
+      "retrieved_at": "2026-03-15T00:24:27Z",
+      "vector_targets": [
+        "financial_economic"
+      ],
+      "class": "DATA",
+      "analyst_note": "Treasury yield proxy. Inverted curve signals recession/stress."
+    }
+  ],
+  "seismic_events": [
+    {
+      "source": "USGS",
+      "source_type": "seismic_event",
+      "title": "M 4.4 - 65 km ESE of Murghob, Tajikistan",
+      "magnitude": 4.4,
+      "place": "65 km ESE of Murghob, Tajikistan",
+      "time": 1773504377538,
+      "longitude": 74.6932,
+      "latitude": 38.0328,
+      "depth_km": 97.71,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sgbf",
+      "retrieved_at": "2026-03-15T00:24:28Z",
+      "vector_targets": [
+        "military_escalation"
+      ],
+      "class": "DATA",
+      "analyst_note": "Cross-reference with known strike windows. Shallow events (<5km) near military sites may indicate subsurface detonation."
+    },
+    {
+      "source": "USGS",
+      "source_type": "seismic_event",
+      "title": "M 4.3 - 24 km NNW of Shahrak-e Kūlūrī, Iran",
+      "magnitude": 4.3,
+      "place": "24 km NNW of Shahrak-e Kūlūrī, Iran",
+      "time": 1773449678164,
+      "longitude": 48.3657,
+      "latitude": 32.5524,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sg7e",
+      "retrieved_at": "2026-03-15T00:24:28Z",
+      "vector_targets": [
+        "military_escalation"
+      ],
+      "class": "DATA",
+      "analyst_note": "Cross-reference with known strike windows. Shallow events (<5km) near military sites may indicate subsurface detonation."
+    }
+  ],
+  "humanitarian_reports": [],
+  "earth_events": []
+}

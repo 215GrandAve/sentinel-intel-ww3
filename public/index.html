@@ -95,15 +95,30 @@
       <div id="changelog" class="change-strip"></div>
     </section>
 
-    <!-- VECTORS + INTEL -->
+    <!-- MAIN GRID: LEFT (Market + Vectors + Info Warfare) | RIGHT (Intel Cards) -->
     <section class="main-grid">
-      <div class="grid-section">
-        <div class="section-title">Vector Analysis</div>
-        <div id="vectors" class="vector-list"></div>
+      <div class="grid-left">
+        <!-- MARKET SNAPSHOT (top) -->
+        <div class="grid-panel">
+          <div class="section-title">Market Snapshot</div>
+          <div id="marketData" class="market-sections"></div>
+        </div>
+        <!-- VECTORS -->
+        <div class="grid-panel">
+          <div class="section-title">Vector Analysis</div>
+          <div id="vectors" class="vector-list"></div>
+        </div>
+        <!-- INFO WARFARE -->
+        <div class="grid-panel">
+          <div id="infoWarfareTitle" class="section-title">Information Warfare — New Vector</div>
+          <div id="infoWarfareCards" class="intel-grid"></div>
+        </div>
       </div>
-      <div class="grid-section">
-        <div class="section-title">Live Intel — Current Snapshot</div>
-        <div id="intelCards" class="intel-grid"></div>
+      <div class="grid-right">
+        <div class="grid-panel">
+          <div class="section-title">Live Intel — Current Snapshot</div>
+          <div id="intelCards" class="intel-grid"></div>
+        </div>
       </div>
     </section>
 
@@ -138,18 +153,6 @@
       <div id="overlaySubtitle" class="ramadan-subtitle"></div>
       <div id="overlayTimeline" class="ramadan-timeline"></div>
       <div id="overlayDescription" class="overlay-copy"></div>
-    </section>
-
-    <!-- INFO WARFARE + MARKET -->
-    <section class="main-grid">
-      <div class="grid-section">
-        <div id="infoWarfareTitle" class="section-title">Information Warfare — New Vector</div>
-        <div id="infoWarfareCards" class="intel-grid"></div>
-      </div>
-      <div class="grid-section">
-        <div class="section-title">Market Snapshot</div>
-        <div id="marketData" class="market-sections"></div>
-      </div>
     </section>
 
     <!-- ESCALATION TRIGGERS -->

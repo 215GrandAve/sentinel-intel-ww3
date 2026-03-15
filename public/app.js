@@ -55,7 +55,7 @@ async function fetchJson(path) {
 async function loadDashboard() {
   const params = new URLSearchParams(location.search);
   const snap = params.get('snapshot');
-  const path = snap ? '../data/archive/' + snap : '../data/latest.json';
+  const path = snap ? '/data/archive/' + snap : '/data/latest.json';
   renderDashboard(await fetchJson(path), Boolean(snap));
 }
 
@@ -205,7 +205,7 @@ function renderDashboard(data, isArchive) {
 }
 
 async function loadArchive() {
-  var index = await fetchJson('../data/archive/index.json');
+  var index = await fetchJson('/data/archive/index.json');
   document.getElementById('archiveList').innerHTML = (index.snapshots || []).map(function(item) {
     return '<article class="archive-item"><h3>' + esc(item.status) + ' — ' + item.score + '/100</h3>' +
       '<div class="archive-meta">' + esc(formatDateTime(item.last_updated)) + ' // Δ ' + (item.delta >= 0 ? '+' : '') + item.delta + '</div>' +

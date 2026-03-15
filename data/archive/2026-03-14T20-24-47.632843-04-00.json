@@ -1,0 +1,500 @@
+{
+  "meta": {
+    "platform_name": "Sentinel",
+    "product_name": "WW3 Barometer",
+    "version": "v4.0",
+    "status": "THRESHOLD / EXTREME",
+    "score": 94,
+    "previous_score": 94,
+    "delta": 0,
+    "day_label": "DAY 13",
+    "header_timestamp_label": "MARCH 14, 2026 // 20:24 ET",
+    "last_updated": "2026-03-14T20:24:47.632843-04:00",
+    "next_update": "2026-03-15T06:00:00-04:00",
+    "threshold_watch": "NEXT THRESHOLD: 90 / CRITICAL",
+    "footer_watch": "WATCHING FOR 90"
+  },
+  "summary": {
+    "headline": "THRESHOLD / EXTREME",
+    "subheadline": "THRESHOLD / EXTREME",
+    "description": "Score holds at 94 / THRESHOLD / EXTREME — no upward revision this cycle, but no de-escalation signals either. Key drivers: Iran missile strike toward Eilat (no casualties), IDF 7th Armored Brigade expanding Lebanon ground raids, IRGC evacuation warnings issued to US industrial sites across the Gulf region, and GDELT confirming drone attacks shutting a key Middle Eastern oil port. Laylatul Qadr window opens March 16 — 48-hour theological trigger period now imminent. No negotiation track visible.",
+    "confidence": "HIGH"
+  },
+  "alert_tape": "SCORE 94 / THRESHOLD / EXTREME — 0 SINCE LAST UPDATE — LIVE",
+  "alerts": [
+    "Draft score: 94",
+    "Human approval required"
+  ],
+  "changelog": [
+    "Iran fires missile toward Eilat — intercepted or missed, no casualties, but southern Israel targeting continues.",
+    "IDF 7th Armored Brigade kills dozens of Hezbollah operatives in Lebanon raids — ground operation expansion signaled.",
+    "IRGC issues evacuation warnings to residents near US industrial sites across the Gulf — pre-strike signaling pattern.",
+    "GDELT confirms drone attacks shutting key Middle Eastern oil port — Hormuz pressure extending to port infrastructure.",
+    "GDELT: ships reportedly sailing again through Hormuz per one source — contested picture, selective blockade enforcement uneven.",
+    "Score holds at 94 — no new threshold breach this cycle, but Laylatul Qadr window activates March 16.",
+    "Draft score is now 94."
+  ],
+  "vectors": [
+    {
+      "name": "Military Escalation",
+      "score": 95,
+      "delta": 0,
+      "confidence": "HIGH",
+      "class": "ASSESSMENT",
+      "driver": "Eilat missile + IDF Lebanon ground raids expanding",
+      "note": "Score holds. New Eilat missile strike (no casualties) and IDF 7th Armored Brigade Lebanon raids confirm sustained multi-front kinetic tempo. IRGC evacuation warnings to Gulf industrial sites are a pre-strike signaling pattern — watch for follow-on strikes on US commercial infrastructure within 24-48 hours."
+    },
+    {
+      "name": "Geopolitical Stability",
+      "score": 91,
+      "delta": 0,
+      "confidence": "HIGH",
+      "class": "ASSESSMENT",
+      "driver": "French Lebanon proposal circulating, no traction",
+      "note": "Score holds. French Israel-Lebanon proposal (including Israeli recognition) is circulating but has no visible acceptance path. Trump-Zelensky friction reported by TASS — treat as narrative framing, but the underlying tension over Ukraine deal-making is corroborated by Western sources. No negotiation window on Iran track."
+    },
+    {
+      "name": "Financial / Economic",
+      "score": 93,
+      "delta": 0,
+      "confidence": "HIGH",
+      "class": "ASSESSMENT",
+      "driver": "WTI $98.71 flat / GDELT port closure confirmed",
+      "note": "WTI holds at $98.71 — no further surge this cycle but no retreat either. GDELT confirms drone attack shutting a key Gulf oil port, adding infrastructure disruption pressure beyond Kharg Island. Gold up 0.18% to $5,061.70. VIX flat at 27.19 — markets not yet pricing worst-case Kharg full disruption or Fifth Fleet engagement. Score holds pending next kinetic confirmation."
+    },
+    {
+      "name": "Theological Convergence",
+      "score": 97,
+      "delta": 8,
+      "confidence": "MODERATE",
+      "class": "INTERPRETIVE",
+      "driver": "Netanyahu Messiah statement + Paula White axis",
+      "note": "All four traditions — Evangelical Christian, Messianic Jewish, Islamic, Orthodox Christian — pointing at the same geography with the same intensity simultaneously. No historical precedent for this convergence."
+    },
+    {
+      "name": "Third Temple / Al-Aqsa",
+      "score": 96,
+      "delta": 0,
+      "confidence": "HIGH",
+      "class": "INTERPRETIVE",
+      "driver": "Kohanim recruitment confirmed // Maximum reading",
+      "note": "Hegseth 2018 Jerusalem speech calling Third Temple reconstruction a miracle. IDF soldiers wearing Temple insignia. Ben-Gvir and Smotrich in cabinet with explicit Temple Mount agenda. Red heifers in Israel. Temple vessels built. Architectural plans drawn."
+    },
+    {
+      "name": "Information Warfare",
+      "score": 88,
+      "delta": 0,
+      "confidence": "MODERATE",
+      "class": "ASSESSMENT",
+      "driver": "FCC license threats confirmed / prediction market crackdown calls",
+      "note": "Score holds. FCC broadcaster license threat confirmed across NYT, MEE, and Investing.com this cycle. New signal: BBC reports calls to crack down on prediction markets hosting 'gruesome' war bets — regulatory pressure expanding from broadcast to financial speculation on war outcomes. Information warfare vector now operating on broadcast, social media arrest, AI-targeting, and financial market tracks simultaneously."
+    }
+  ],
+  "intel_cards": [
+    {
+      "title": "Iran fires missile toward Eilat — no casualties, southern Israel targeting continues",
+      "timestamp": "2026-03-15T01:37:01+00:00",
+      "timestamp_label": "▲ HIGH // SOUTHERN ISRAEL STRIKE",
+      "class": "VERIFIED",
+      "severity": "HIGH",
+      "confidence": "HIGH",
+      "summary": "Iran launched a missile toward Eilat, Israel's southern Red Sea port city. Magen David Adom and United Hatzalah confirmed no hits or injuries. Missile intercepted or missed. Eilat targeting is strategically significant — it is Israel's only Red Sea port and a key economic and tourism hub, separate from the northern front.",
+      "source_label": "Jerusalem Post",
+      "source_url": "https://www.jpost.com/israel-news/defense-news/article-889920",
+      "source_type": "media report",
+      "published_at": "2026-03-15T01:37:01+00:00",
+      "retrieved_at": "2026-03-14T20:25:31+00:00",
+      "analyst_note": "Eilat targeting signals Iran is probing Israel's southern defensive perimeter — a different intercept layer than the north. No casualties this strike, but each Eilat attempt depletes interceptor stocks that are already critically low. If Iran calibrates a saturation strike toward Eilat while simultaneously barraging the north, the intercept math becomes untenable. Watch for Eilat strike frequency as a leading indicator of Iran's intercept-depletion strategy."
+    },
+    {
+      "title": "IDF 7th Armored Brigade expands Lebanon raids — dozens of Hezbollah operatives killed, ground operation signaled",
+      "timestamp": "2026-03-15T00:30:08+00:00",
+      "timestamp_label": "▲ HIGH // LEBANON GROUND EXPANSION",
+      "class": "VERIFIED",
+      "severity": "HIGH",
+      "confidence": "HIGH",
+      "summary": "Israel's 7th Armored Brigade conducted raids in southern Lebanon killing dozens of Hezbollah operatives, seizing weapons, and dismantling infrastructure. IDF is actively weighing broader ground operations in southern Lebanon. BBC ground reporting confirms a family killed in a separate Israeli strike — IDF says it targeted terrorist infrastructure, family says civilians.",
+      "source_label": "Jerusalem Post / BBC News",
+      "source_url": "https://www.jpost.com/israel-news/defense-news/article-889917",
+      "source_type": "media report",
+      "published_at": "2026-03-15T00:30:08+00:00",
+      "retrieved_at": "2026-03-14T20:25:31+00:00",
+      "analyst_note": "7th Armored Brigade deployment into Lebanon is a significant escalation indicator — this is a heavy armor formation, not a special forces raid unit. Armored brigade activity in southern Lebanon signals Israel is preparing or executing a ground maneuver campaign, not just air and artillery strikes. If a full ground operation is authorized, Lebanon becomes a third active ground front alongside Gaza and the Iran air campaign. Lebanon death toll already at 826 including 106 children."
+    },
+    {
+      "title": "IRGC issues evacuation warnings to residents near US industrial sites across the Gulf",
+      "timestamp": "2026-03-14T21:01:01+00:00",
+      "timestamp_label": "▲ CRITICAL // IRGC PRE-STRIKE SIGNALING",
+      "class": "ASSESSMENT",
+      "severity": "CRITICAL",
+      "confidence": "MODERATE",
+      "summary": "Iran's IRGC issued warnings to residents living near US industrial sites across the Middle East to evacuate, and warned all US businesses in the region to leave. This is a pre-strike signaling pattern — IRGC has used similar warnings before kinetic action against specific target sets. Source is TASS; treat as ASSESSMENT pending corroboration.",
+      "source_label": "TASS (narrative — source bias flagged)",
+      "source_url": "https://tass.com/world/2101675",
+      "source_type": "state media (Russia)",
+      "published_at": "2026-03-14T21:01:01+00:00",
+      "retrieved_at": "2026-03-14T20:25:31+00:00",
+      "analyst_note": "NARRATIVE MONITOR — TASS is Russian state media; this report serves Russian framing interests by amplifying Iranian threat posture. However, the IRGC evacuation warning pattern is operationally significant regardless of source: Iran used similar pre-strike warnings before the January 2020 Ain al-Assad strike and before the April 2024 drone barrage. If this warning is genuine, it signals imminent IRGC strikes on US commercial and industrial infrastructure across the Gulf — a target set expansion beyond military bases. Watch for corroboration from MEE, Al Jazeera, or Reuters within 6 hours."
+    },
+    {
+      "title": "GDELT: Drone attack shuts key Middle Eastern oil port — Hormuz pressure extending to port infrastructure",
+      "timestamp": "2026-03-15T00:00:00+00:00",
+      "timestamp_label": "▲ CRITICAL // PORT INFRASTRUCTURE STRIKE",
+      "class": "ASSESSMENT",
+      "severity": "CRITICAL",
+      "confidence": "MODERATE",
+      "summary": "GDELT conflict monitor (Express.co.uk) reports a drone attack has shut a key Middle Eastern oil port. Separate GDELT signals confirm drone attacks in Kuwait and ongoing Hormuz interdiction pressure. One GDELT source (HotAir) reports ships are again sailing through Hormuz — suggesting enforcement of the selective blockade is uneven or contested. Port closure compounds Kharg Island strike damage to Iran's export infrastructure.",
+      "source_label": "GDELT / Express.co.uk / nos.nl",
+      "source_url": "https://sentinel-intel.live",
+      "source_type": "GDELT conflict monitor",
+      "published_at": "2026-03-15T00:00:00+00:00",
+      "retrieved_at": "2026-03-15T00:00:00+00:00",
+      "analyst_note": "Port closure via drone attack is a different attack vector than missile strikes on Kharg Island — it suggests Iran or its proxies are using drone swarms to interdict Gulf port operations directly, not just threatening Hormuz transit. If the closed port is a UAE or Kuwaiti facility, this expands the conflict footprint to Gulf state commercial infrastructure. The contested Hormuz picture — one source says ships are sailing, others confirm interdiction — suggests Iran is selectively enforcing the blockade rather than imposing a blanket closure, consistent with Araghchi's legal framing."
+    },
+    {
+      "title": "Trump calls for allied warships at Hormuz — UK, Gulf states, Asian importers targeted for coalition",
+      "timestamp": "2026-03-15T00:00:00+00:00",
+      "timestamp_label": "▲ HIGH // HORMUZ COALITION FORMATION",
+      "class": "VERIFIED",
+      "severity": "HIGH",
+      "confidence": "HIGH",
+      "summary": "Trump publicly called on allied nations — specifically naming the UK and nations dependent on Gulf oil — to send warships to secure the Strait of Hormuz. GDELT confirms Trump urged the UK directly. gCaptain confirms the call for allied warships. Iran's selective blockade framing (open to all except US/Israel) is designed to fracture this coalition before it forms.",
+      "source_label": "Al Jazeera / gCaptain / GDELT",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/3/15/iran-war-live-trump-urges-world-to-keep-hormuz-strait-open?traffic_source=rss",
+      "source_type": "media report",
+      "published_at": "2026-03-15T00:00:00+00:00",
+      "retrieved_at": "2026-03-14T20:25:31+00:00",
+      "analyst_note": "Coalition formation at Hormuz is the critical variable for the next 72 hours. If UK, France, or Asian importers decline to join — accepting Iran's framing that their ships are not threatened — the US is left conducting unilateral escort operations, which Iran can frame as aggression. GDELT also flags a report that Iran's Hormuz reopening condition 'hands China a major financial win' — suggesting Beijing may be negotiating a side deal to keep its tankers flowing while the US-Iran standoff continues. Watch for Chinese diplomatic signaling on Hormuz in the next 24 hours."
+    },
+    {
+      "title": "France proposes Israel-Lebanon peace deal including Lebanese recognition of Israel",
+      "timestamp": "2026-03-14T21:05:49+00:00",
+      "timestamp_label": "▲ ELEVATED // DIPLOMATIC TRACK",
+      "class": "ASSESSMENT",
+      "severity": "ELEVATED",
+      "confidence": "MODERATE",
+      "summary": "A French proposal for an Israel-Lebanon peace agreement is circulating, reportedly including Lebanese recognition of Israel, Israeli withdrawal from southern Lebanon, and a path to normalized relations. No acceptance signals from either party. The proposal is the only visible diplomatic track in the current cycle.",
+      "source_label": "Jerusalem Post",
+      "source_url": "https://www.jpost.com/middle-east/article-889911",
+      "source_type": "media report",
+      "published_at": "2026-03-14T21:05:49+00:00",
+      "retrieved_at": "2026-03-14T20:25:31+00:00",
+      "analyst_note": "The French proposal is diplomatically significant but operationally irrelevant at current escalation tempo. Lebanon recognition of Israel is a maximalist Israeli demand that has no domestic political support in Beirut under current conditions. The proposal's existence signals European anxiety about conflict expansion but does not constitute a credible off-ramp. If Israel is weighing a full ground operation in southern Lebanon, a French paper proposal will not deter it. File as WATCH — not an active de-escalation signal."
+    },
+    {
+      "title": "Israel-US regime change operation active — psychological ops targeting Iranian population",
+      "timestamp": "2026-03-14T21:01:17+00:00",
+      "timestamp_label": "▲ HIGH // REGIME CHANGE TRACK",
+      "class": "VERIFIED",
+      "severity": "HIGH",
+      "confidence": "HIGH",
+      "summary": "Jerusalem Post confirms Israel and the US are actively increasing efforts to encourage Iranian protesters to take to the streets and overthrow the regime. An Israeli official stated regime change is 'more likely after the war, during a time of relative calm' — suggesting the current kinetic campaign is not expected to produce immediate regime collapse. Simultaneous strikes on civilian-industrial targets (Isfahan factory, schools) contradict the psychological operation's stated goal.",
+      "source_label": "Jerusalem Post",
+      "source_url": "https://www.jpost.com/middle-east/iran-news/article-889914",
+      "source_type": "media report",
+      "published_at": "2026-03-14T21:01:17+00:00",
+      "retrieved_at": "2026-03-14T20:25:31+00:00",
+      "analyst_note": "The Israeli official's admission that regime change is a post-war goal — not a current-war outcome — is a significant strategic signal. It means Israel and the US are not expecting the kinetic campaign to produce regime collapse, and are planning for a sustained post-war pressure phase. This extends the conflict timeline beyond the current kinetic exchange. Meanwhile, strikes on Isfahan factories and schools are hardening Iranian nationalist sentiment — the psyop and the strike campaign are working against each other. This strategic contradiction is a planning failure with escalation consequences."
+    },
+    {
+      "title": "Prediction markets hosting millions in war bets — calls for regulatory crackdown",
+      "timestamp": "2026-03-15T00:01:31+00:00",
+      "timestamp_label": "▲ WATCH // INFORMATION WARFARE / FINANCIAL",
+      "class": "VERIFIED",
+      "severity": "WATCH",
+      "confidence": "HIGH",
+      "summary": "BBC reports prediction markets have hosted millions of dollars in bets on war outcomes, including 'gruesome' contracts on specific events. Calls for regulatory crackdown are growing. This is a new information warfare and financial market integrity signal — war outcome speculation is now a mainstream financial product.",
+      "source_label": "BBC News",
+      "source_url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
+      "source_type": "media report",
+      "published_at": "2026-03-15T00:01:31+00:00",
+      "retrieved_at": "2026-03-14T20:25:31+00:00",
+      "analyst_note": "Prediction market war bets create perverse incentive structures — large positions on specific escalation events (leader assassination, nuclear use, port closure) create financial motivation to amplify or fabricate triggering information. The Netanyahu assassination disinfo that required an official denial this cycle is consistent with adversarial actors attempting to move prediction market positions. Regulatory crackdown on these markets, if it comes, will itself become an information warfare battleground. Flag for Information Warfare vector."
+    },
+    {
+      "title": "U.S. air tanker crash in Iraq — GDELT flags KC-135 loss parallel",
+      "timestamp": "2026-03-15T00:00:00+00:00",
+      "timestamp_label": "▲ ELEVATED // US ASSET LOSS",
+      "class": "ASSESSMENT",
+      "severity": "ELEVATED",
+      "confidence": "LOW",
+      "summary": "GDELT flags a report (timesca.com) of a US air tanker crash in Iraq, drawing comparison to the KC-135 loss in Kyrgyzstan in 2013. Details are sparse. If confirmed, a tanker loss in Iraq during active hostilities — with US Embassy Baghdad already struck twice — would represent a significant US asset loss in the Iraqi theater.",
+      "source_label": "GDELT / timesca.com",
+      "source_url": "https://sentinel-intel.live",
+      "source_type": "GDELT conflict monitor",
+      "published_at": "2026-03-15T00:00:00+00:00",
+      "retrieved_at": "2026-03-15T00:00:00+00:00",
+      "analyst_note": "LOW confidence — single GDELT source, no corroboration from major outlets yet. However, a tanker aircraft loss in Iraq during active hostilities is a significant escalation signal if confirmed: air tankers are force multipliers for strike packages, and their loss degrades US offensive reach. Cross-reference against DoD statements and major wire services. If confirmed, Military Escalation vector warrants upward revision."
+    },
+    {
+      "title": "Global anti-war protests: Madrid thousands, Seoul hundreds — public pressure building",
+      "timestamp": "2026-03-14T20:59:54+00:00",
+      "timestamp_label": "▲ ELEVATED // GLOBAL PROTEST SIGNAL",
+      "class": "VERIFIED",
+      "severity": "ELEVATED",
+      "confidence": "HIGH",
+      "summary": "Thousands rallied in Madrid warning the Iran war may spiral into a wider conflict. Hundreds protested in Seoul against US-Israeli strikes. Both protests occurred on the same day — Day 13 of the war. Global public opposition is building across non-aligned and allied nations simultaneously.",
+      "source_label": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/thousands-in-madrid-protest-forgotten-gaza-warn-iran-war-may-spiral-into?traffic_source=rss",
+      "source_type": "media report",
+      "published_at": "2026-03-14T20:59:54+00:00",
+      "retrieved_at": "2026-03-14T20:25:31+00:00",
+      "analyst_note": "Simultaneous protests in European capitals and Asian cities on Day 13 signal that allied-nation domestic political pressure on governments to distance from US-Israeli operations is building. Spain and South Korea are NATO-adjacent or treaty-allied states — their populations protesting creates political constraints on those governments joining Trump's Hormuz coalition. Watch for European government statements distancing from US operations in the next 48-72 hours as domestic pressure mounts ahead of Laylatul Qadr."
+    },
+    {
+      "title": "IRGC claims direct strikes on US military bases in Bahrain and Kuwait — Fifth Fleet targeted",
+      "timestamp": "2026-03-14T23:41:49+00:00",
+      "timestamp_label": "▲ CRITICAL // FIFTH FLEET INFRASTRUCTURE HIT",
+      "class": "ASSESSMENT",
+      "severity": "CRITICAL",
+      "confidence": "MODERATE",
+      "summary": "Iran's Revolutionary Guards claim missile and drone attacks on US military bases in Bahrain and Kuwait, including facilities linked to the US Navy's Fifth Fleet. Statement published via Sepah News. US confirmation pending. If verified, this marks the first direct IRGC strike on Fifth Fleet infrastructure — a significant escalation beyond proxy attacks.",
+      "source_label": "Middle East Eye / Sepah News",
+      "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-revolutionary-guards-say-they-struck-us-bases-bahrain-kuwait",
+      "source_type": "media report",
+      "published_at": "2026-03-14T23:41:49+00:00",
+      "retrieved_at": "2026-03-14T20:11:47-04:00",
+      "analyst_note": "IRGC claim via Sepah News — treat as ASSESSMENT until US DoD confirms or denies. If verified, this is the single most significant escalation in the current cycle: direct state-on-state kinetic action against the US Navy's regional command hub. Fifth Fleet at Manama is the operational backbone of Hormuz enforcement. Striking it signals Iran is willing to absorb the escalation cost of hitting US command infrastructure directly, not just through proxies. Watch for US retaliatory strike authorization within 12-24 hours."
+    },
+    {
+      "title": "Iran FM Araghchi: Hormuz open to all except US and Israeli vessels — selective blockade declared",
+      "timestamp": "2026-03-15T01:11:00+00:00",
+      "timestamp_label": "▲ CRITICAL // SELECTIVE HORMUZ BLOCKADE",
+      "class": "VERIFIED",
+      "severity": "CRITICAL",
+      "confidence": "HIGH",
+      "summary": "Iranian Foreign Minister Araghchi publicly declared the Strait of Hormuz open to all nations except the United States and Israel. Other vessels are free to pass, though many are avoiding the strait due to security concerns Araghchi attributed to US-Israeli operations. This reframes the Hormuz closure from a blanket blockade to a targeted interdiction — with significant legal and coalition implications.",
+      "source_label": "Jerusalem Post",
+      "source_url": "https://www.jpost.com/middle-east/iran-news/article-889918",
+      "source_type": "media report",
+      "published_at": "2026-03-15T01:11:00+00:00",
+      "retrieved_at": "2026-03-14T20:11:47-04:00",
+      "analyst_note": "This is a deliberate legal and diplomatic maneuver. By framing the closure as targeted at US/Israeli vessels only, Iran attempts to fracture the allied coalition Trump is assembling — China, India, and non-aligned states have no formal obligation to join an escort mission if Iran claims their ships are not threatened. Watch for whether Gulf states and Asian importers accept this framing. If they do, the US-led naval coalition loses its multilateral justification. This is information warfare and legal warfare operating simultaneously with kinetic operations."
+    }
+  ],
+  "doctrine": {
+    "title": "Netanyahu Messiah Doctrine — Fully Documented",
+    "quote": "\"We will make it to the return of the Messiah, but this will not happen next Thursday.\"",
+    "quote_source": "— PRIME MINISTER BENJAMIN NETANYAHU // MARCH 12, 2026 // ACTIVE WARTIME STATEMENT",
+    "cards": [
+      {
+        "tag": "LUBAVITCHER PROPHECY",
+        "class": "INTERPRETIVE",
+        "text": "The late Rebbe Schneerson told a young Netanyahu 30 years ago: \"You will be the prime minister who passes the scepter to the Messiah.\" That prophecy is now circulating openly in Israeli media during active war."
+      },
+      {
+        "tag": "ACCELERATIONIST DOCTRINE",
+        "class": "INTERPRETIVE",
+        "text": "Netanyahu framed explicitly as an accelerationist — someone who could precipitate or force God's intervention in history. Kohanim (Temple priests) being actively recruited by his government for Temple service."
+      },
+      {
+        "tag": "HISTORIC SPIRITUAL MISSION",
+        "class": "INTERPRETIVE",
+        "text": "Netanyahu on record to i24: \"If you're asking if I have a sense of mission, historically and spiritually, the answer is yes.\" Accepted amulet of Greater Israel map saying \"This is my vision.\""
+      }
+    ]
+  },
+  "axis": {
+    "title": "Theological Command Axis — Fully Mapped",
+    "nodes": [
+      {
+        "title": "PAULA WHITE",
+        "body": "WH Faith Office Head\nMet Netanyahu Feb 4\nAppointed Feb 6"
+      },
+      {
+        "title": "HEGSETH",
+        "body": "SecDef / War Commander\nThird Temple speech 2018\n\"New capabilities\" promised"
+      },
+      {
+        "title": "TRUMP",
+        "body": "\"Anointed by Jesus\"\nper own commanders\nto troops"
+      },
+      {
+        "title": "SCOFIELD THEOLOGY",
+        "body": "Dispensationalism\nIsrael restoration =\nRapture precondition"
+      },
+      {
+        "title": "80M EVANGELICALS",
+        "body": "Believe they're\naccelerating Jesus's\nreturn via this war"
+      }
+    ]
+  },
+  "traditions": {
+    "title": "Four-Tradition Theological Convergence",
+    "rows": [
+      {
+        "tradition": "Evangelical Christian",
+        "status": "END TIMES ACTIVE",
+        "status_class": "critical",
+        "signal": "Paula White Faith Office // Hegseth Third Temple speech 2018 // Scofield dispensationalism // Trump described as anointed vessel to troops"
+      },
+      {
+        "tradition": "Messianic Jewish",
+        "status": "MESSIAH IMMINENT",
+        "status_class": "critical",
+        "signal": "Lubavitcher prophecy circulating openly // Kohanim being recruited for Temple service // Netanyahu accelerationist framing // \"Era of Messiah\" language active"
+      },
+      {
+        "tradition": "Islamic",
+        "status": "MAJOR SIGNS PRESENT",
+        "status_class": "critical",
+        "signal": "Al-Aqsa contested in active war // Regional conflict centered on Al-Quds // Financial system targeted // Laylatul Qadr this week // Dajjal-era deception characteristics present"
+      },
+      {
+        "tradition": "Orthodox Christian",
+        "status": "WATCHING",
+        "status_class": "high",
+        "signal": "Patriarch statements on holy sites // Russian Orthodox framing of conflict // Byzantine Rome parallel active in discourse // Third Temple = seat of Antichrist in Orthodox theology"
+      }
+    ]
+  },
+  "overlay": {
+    "title": "RAMADAN 1447 OVERLAY",
+    "subtitle": "DIVINE DECREE WINDOW — AL-QUDS CONTESTED IN REAL TIME — NO PRECEDENT IN MODERN ERA",
+    "description": "The Night of Decree — when divine destinies are written — falls this week inside an active regional war centered on Al-Quds and Al-Aqsa. The theological significance within the Islamic eschatological framework cannot be overstated. No Western analytical model is tracking this variable.",
+    "timeline": [
+      {
+        "date": "MAR 10",
+        "title": "Last 10 Nights Begin",
+        "description": "Prophet ﷺ tightened his waist belt, stayed up, and woke his family. Full ibadah mode.",
+        "state": "ACTIVE NOW"
+      },
+      {
+        "date": "MAR 16",
+        "title": "27th Night",
+        "description": "Most likely Laylatul Qadr. Night the Quran descended. Better than 1,000 months.",
+        "state": "PEAK"
+      },
+      {
+        "date": "MAR 19",
+        "title": "Last Night — 3/19",
+        "description": "Night of wage payment. Prophet ﷺ: \"The workers receive what they earned.\" Recurrent signal date.",
+        "state": "FINAL"
+      },
+      {
+        "date": "MAR 20",
+        "title": "Eid ul-Fitr 1447",
+        "description": "Ramadan sealed. Whatever was written, was written.",
+        "state": "WATCH"
+      }
+    ]
+  },
+  "info_warfare": {
+    "title": "Information Warfare — New Vector",
+    "cards": [
+      {
+        "tag": "ADL — LLM LOBBYING",
+        "class": "ASSESSMENT",
+        "text": "ADL published comprehensive bias report March 2025 explicitly lobbying to reshape AI responses on Israel. Claude, GPT, Gemini, Llama all targeted. 34,400 queries submitted. Calling on AI companies to change training data."
+      },
+      {
+        "tag": "KNESSET TESTIMONY",
+        "class": "ASSESSMENT",
+        "text": "ADL CEO Greenblatt testified before Israeli Knesset January 7, 2025 — American organization reporting to foreign parliament. Invoked Mossad pager operation as the model for information warfare strategy."
+      },
+      {
+        "tag": "CURRICULUM + PLATFORMS",
+        "class": "ASSESSMENT",
+        "text": "ADL education programs documented across K-12 curriculum. Wikipedia editors banned after ADL pressure. Social media declared 8th front of organized information campaign. All operating simultaneously."
+      }
+    ]
+  },
+  "market_sections": [
+    {
+      "title": "INDICES",
+      "rows": [
+        {
+          "label": "NQ (Nasdaq 100 Futures)",
+          "value": "24,929 ▼",
+          "direction": "bearish",
+          "class": "DATA"
+        },
+        {
+          "label": "ES (S&P 500 Futures)",
+          "value": "Flat / Cautious",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "Key Resistance NQ",
+          "value": "25,162",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "Pivot NQ",
+          "value": "24,757",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "S1 NQ",
+          "value": "24,264",
+          "direction": "neutral",
+          "class": "DATA"
+        }
+      ]
+    },
+    {
+      "title": "ENERGY",
+      "rows": [
+        {
+          "label": "WTI Crude (CL1)",
+          "value": "$85.32 ▲ +3.14%",
+          "direction": "bullish",
+          "class": "DATA"
+        },
+        {
+          "label": "War Spike High",
+          "value": "$119.48",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "Pivot Support",
+          "value": "$83–85",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "CPI Feb (released today)",
+          "value": "2.4% YoY ✓ In-line",
+          "direction": "bullish",
+          "class": "DATA"
+        },
+        {
+          "label": "War Cost / Day",
+          "value": "$2B+ (Murphy)",
+          "direction": "bearish",
+          "class": "DATA"
+        }
+      ]
+    }
+  ],
+  "triggers": [
+    {
+      "id": 1,
+      "text": "Iran bank-targeting declaration executed — first Gulf financial institution physically struck."
+    },
+    {
+      "id": 2,
+      "text": "Hormuz mining confirmed operational — tanker sunk or disabled, full closure triggered."
+    },
+    {
+      "id": 3,
+      "text": "Al-Aqsa physically threatened or accessed by Israeli nationalists during active war."
+    },
+    {
+      "id": 4,
+      "text": "Russia moves from intelligence-sharing to active military involvement."
+    },
+    {
+      "id": 5,
+      "text": "Iran deploys Fattah-2 hypersonic at scale — no proven intercept solution exists."
+    },
+    {
+      "id": 6,
+      "text": "US Congress invokes War Powers — or fails to, triggering constitutional crisis."
+    }
+  ]
+}

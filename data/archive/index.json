@@ -1,6 +1,71 @@
 {
   "snapshots": [
     {
+      "file": "2026-03-14T20-24-47.632843-04-00.json",
+      "last_updated": "2026-03-14T20:24:47.632843-04:00",
+      "score": 94,
+      "delta": 0,
+      "status": "THRESHOLD / EXTREME",
+      "summary": "Score holds at 94 / THRESHOLD / EXTREME — no upward revision this cycle, but no de-escalation signals either. Key drivers: Iran missile strike toward Eilat (no casualties), IDF 7th Armored Brigade expanding Lebanon ground raids, IRGC evacuation warnings issued to US industrial sites across the Gulf region, and GDELT confirming drone attacks shutting a key Middle Eastern oil port. Laylatul Qadr window opens March 16 — 48-hour theological trigger period now imminent. No negotiation track visible.",
+      "top_drivers": [
+        "Eilat missile + IDF Lebanon ground raids expanding",
+        "French Lebanon proposal circulating, no traction",
+        "WTI $98.71 flat / GDELT port closure confirmed"
+      ]
+    },
+    {
+      "file": "2026-03-14T20-10-35.150815-04-00.json",
+      "last_updated": "2026-03-14T20:10:35.150815-04:00",
+      "score": 94,
+      "delta": 2,
+      "status": "THRESHOLD / EXTREME",
+      "summary": "Five vectors converging simultaneously: military multi-front expansion, financial warfare declaration, geopolitical credibility collapse, Third Temple acceleration, and theological convergence across all four traditions. New vector added: Information Warfare. Ramadan 1447 overlay active — Laylatul Qadr imminent. Watching for 90. Automated test refresh executed from cron to verify the live publish pipeline. Evening RSS cycle confirms multi-front escalation: US Embassy Baghdad hit twice, Americans ordered to evacuate Iraq. Israel running dangerously low on missile interceptors after sustained Iranian barrages. Iran issues evacuation warnings for UAE ports, threatens to expand targeting. Trump rejects all diplomatic overtures, calls for allied naval coalition at Hormuz. Information warfare intensifies — FCC threatens broadcaster licenses over war coverage. 5,000 additional US Marines dispatched to region. Both sides signaling extended conflict with no negotiation window. Morning RSS cycle and live API data confirm sustained multi-front escalation entering Day 14. IRGC claims direct missile and drone strikes on US military bases in Bahrain and Kuwait — Fifth Fleet infrastructure explicitly targeted. Iran's FM Araghchi declares Hormuz open to all except US and Israeli vessels, a de facto selective blockade that reframes the legal and operational picture. US-Israeli strikes hit Isfahan factory (15 killed per Iranian media) and Kharg Island oil infrastructure — Iran's primary export terminal now in active strike rotation. Tehran is largely evacuated; NYT ground reporting confirms the capital is functionally hollow. Israel's casualty count reaches 3,138 hospitalized since war began. Lebanon death toll hits 826 including 106 children and 31 paramedics. Pakistan opens a separate kinetic front, striking Afghan Kandahar base after Taliban drone attacks cross Islamabad's declared red line — conflict contagion spreading beyond the Iran-Israel-US triangle. Russia is exploiting the Iran war window to intensify Ukraine bombardment, with Zelensky warning of air-defense depletion mirroring Israel's interceptor crisis. WTI crude has climbed to $98.71 from the prior $85.32 reading — a $13.39 move confirming energy shock transmission. Gold at $5,061.70 signals flight-to-safety at scale. VIX at 27.19 reflects sustained but not yet panic-level equity stress. Seismic event M4.3 at 10km depth near Shahrak-e Kūlūrī, Iran warrants cross-reference against known strike windows — shallow depth is inconsistent with tectonic baseline and proximate to industrial corridor. Al-Aqsa closure during Ramadan confirmed by MEMO/Indonesia commentary — no Muslim worship at the third holiest site during the last ten nights of Ramadan, with Laylatul Qadr imminent.",
+      "top_drivers": [
+        "IRGC strikes US bases Bahrain/Kuwait + Kharg Island hit + Pakistan-Afghanistan front opens",
+        "Selective Hormuz blockade declared + Pakistan front opens + Russia exploiting window",
+        "WTI $98.71 (+$13.39) / Gold $5,061.70 / Kharg Island strikes / Hormuz selective blockade"
+      ]
+    },
+    {
+      "file": "2026-03-14T18-00-54.931648-04-00.json",
+      "last_updated": "2026-03-14T18:00:54.931648-04:00",
+      "score": 92,
+      "delta": 2,
+      "status": "THRESHOLD / EXTREME",
+      "summary": "Five vectors converging simultaneously: military multi-front expansion, financial warfare declaration, geopolitical credibility collapse, Third Temple acceleration, and theological convergence across all four traditions. New vector added: Information Warfare. Ramadan 1447 overlay active — Laylatul Qadr imminent. Watching for 90. Automated test refresh executed from cron to verify the live publish pipeline. Evening RSS cycle confirms multi-front escalation: US Embassy Baghdad hit twice, Americans ordered to evacuate Iraq. Israel running dangerously low on missile interceptors after sustained Iranian barrages. Iran issues evacuation warnings for UAE ports, threatens to expand targeting. Trump rejects all diplomatic overtures, calls for allied naval coalition at Hormuz. Information warfare intensifies — FCC threatens broadcaster licenses over war coverage. 5,000 additional US Marines dispatched to region. Both sides signaling extended conflict with no negotiation window.",
+      "top_drivers": [
+        "Multi-front expansion + interceptor depletion",
+        "Diplomatic rejection + regional spillover",
+        "Cron test packet — market stress emphasis"
+      ]
+    },
+    {
+      "file": "2026-03-14T06-49-29-04-00.json",
+      "last_updated": "2026-03-14T06:49:29-04:00",
+      "score": 90,
+      "delta": 6,
+      "status": "THRESHOLD / EXTREME",
+      "summary": "Five vectors converging simultaneously: military multi-front expansion, financial warfare declaration, geopolitical credibility collapse, Third Temple acceleration, and theological convergence across all four traditions. New vector added: Information Warfare. Ramadan 1447 overlay active — Laylatul Qadr imminent. Watching for 90. Automated test refresh executed from cron to verify the live publish pipeline.",
+      "top_drivers": [
+        "Multi-front confirmed: Iran + Lebanon + Gulf",
+        "US credibility structurally destroyed",
+        "Cron test packet — market stress emphasis"
+      ]
+    },
+    {
+      "file": "2026-03-12T09-00-00-04-00.json",
+      "last_updated": "2026-03-12T09:00:00-04:00",
+      "score": 84,
+      "delta": 5,
+      "status": "SEVERE / CRITICAL",
+      "summary": "Five vectors converging simultaneously: military multi-front expansion, financial warfare declaration, geopolitical credibility collapse, Third Temple acceleration, and theological convergence across all four traditions. New vector added: Information Warfare. Ramadan 1447 overlay active — Laylatul Qadr imminent. Watching for 90.",
+      "top_drivers": [
+        "Multi-front confirmed: Iran + Lebanon + Gulf",
+        "US credibility structurally destroyed",
+        "Bank targeting declared + Hormuz mined"
+      ]
+    },
+    {
       "file": "2026-03-12-0900.json",
       "last_updated": "2026-03-12T09:00:00-04:00",
       "score": 84,
