@@ -26,7 +26,7 @@ python backend/fetch_apis.py >> "$LOG" 2>&1 || echo "WARN: fetch_apis.py had err
 
 # ── STEP 2: Fetch RSS + generate proposal ────────────────────────────────────
 echo "[2/3] Fetching live RSS and generating proposal…" >> "$LOG"
-python backend/update.py --live --provider anthropic >> "$LOG" 2>&1
+python backend/update.py --live --provider openrouter >> "$LOG" 2>&1
 UPDATE_EXIT=$?
 
 if [ $UPDATE_EXIT -ne 0 ]; then

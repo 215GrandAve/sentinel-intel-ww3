@@ -1,6 +1,19 @@
 {
   "snapshots": [
     {
+      "file": "2026-03-14T20-41-06.168045-04-00.json",
+      "last_updated": "2026-03-14T20:41:06.168045-04:00",
+      "score": 95,
+      "delta": 1,
+      "status": "THRESHOLD / EXTREME",
+      "summary": "Score rises to 96 / THRESHOLD / EXTREME — new critical developments force upward revision. Israel formally warns US of critically low interceptor stocks; IRGC strikes Fifth Fleet infrastructure in Bahrain and Kuwait directly; Erbil refinery hit by drone, Riyadh intercepts Iranian missiles, Dubai intercepts 33 drones and 9 ballistic missiles. Trump threatens second Kharg Island strike and calls Khamenei's survival uncertain — no negotiation track visible, Laylatul Qadr window opens March 16.",
+      "top_drivers": [
+        "Fifth Fleet struck + interceptors critically low",
+        "Pakistan-Afghanistan front opens; Trump Khamenei threat",
+        "WTI $98.71 flat; Erbil refinery halted; Riyadh intercepts"
+      ]
+    },
+    {
       "file": "2026-03-14T20-24-47.632843-04-00.json",
       "last_updated": "2026-03-14T20:24:47.632843-04:00",
       "score": 94,

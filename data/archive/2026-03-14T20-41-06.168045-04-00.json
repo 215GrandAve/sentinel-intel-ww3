@@ -1,0 +1,425 @@
+{
+  "meta": {
+    "platform_name": "Sentinel",
+    "product_name": "WW3 Barometer",
+    "version": "v4.0",
+    "status": "THRESHOLD / EXTREME",
+    "score": 95,
+    "previous_score": 94,
+    "delta": 1,
+    "day_label": "DAY 13",
+    "header_timestamp_label": "MARCH 14, 2026 // 20:41 ET",
+    "last_updated": "2026-03-14T20:41:06.168045-04:00",
+    "next_update": "2026-03-15T06:00:00-04:00",
+    "threshold_watch": "NEXT THRESHOLD: 90 / CRITICAL",
+    "footer_watch": "WATCHING FOR 90"
+  },
+  "summary": {
+    "headline": "THRESHOLD / EXTREME",
+    "subheadline": "THRESHOLD / EXTREME",
+    "description": "Score rises to 96 / THRESHOLD / EXTREME — new critical developments force upward revision. Israel formally warns US of critically low interceptor stocks; IRGC strikes Fifth Fleet infrastructure in Bahrain and Kuwait directly; Erbil refinery hit by drone, Riyadh intercepts Iranian missiles, Dubai intercepts 33 drones and 9 ballistic missiles. Trump threatens second Kharg Island strike and calls Khamenei's survival uncertain — no negotiation track visible, Laylatul Qadr window opens March 16.",
+    "confidence": "HIGH"
+  },
+  "alert_tape": "SCORE 95 / THRESHOLD / EXTREME — +1 SINCE LAST UPDATE — LIVE",
+  "alerts": [
+    "Draft score: 95",
+    "Human approval required"
+  ],
+  "changelog": [
+    "Israel formally warns US interceptor stocks are critically low — Semafor/MEE/MEMO corroboration across multiple outlets.",
+    "IRGC claims direct strikes on Fifth Fleet infrastructure in Bahrain and Kuwait — state-on-state escalation threshold crossed.",
+    "Erbil refinery struck by drone halting operations; Saudi Arabia intercepts Iranian missiles and drones; Dubai intercepts 33 drones and 9 ballistic missiles.",
+    "Trump tells NBC he may strike Kharg Island again and calls Khamenei's survival uncertain — regime decapitation language now public.",
+    "Pakistan strikes Afghan base after Taliban drones cross 'red line' — second regional conflict front activating.",
+    "Score revised upward to 96 — interceptor depletion warning, Fifth Fleet strike claim, and multi-state drone barrage drive revision.",
+    "Draft score is now 95."
+  ],
+  "vectors": [
+    {
+      "name": "Military Escalation",
+      "score": 97,
+      "delta": 2,
+      "confidence": "HIGH",
+      "class": "ASSESSMENT",
+      "driver": "Fifth Fleet struck + interceptors critically low",
+      "note": "IRGC claims direct hits on Fifth Fleet infrastructure in Bahrain and Kuwait — if confirmed, this is state-on-state kinetic action against US naval command. Israel's interceptor depletion warning is now corroborated by Semafor, MEE, MEMO, and Investing.com simultaneously — this is no longer a single-source signal. Dubai intercepting 33 drones and 9 ballistic missiles in one engagement confirms Gulf-wide saturation attack tempo."
+    },
+    {
+      "name": "Geopolitical Stability",
+      "score": 93,
+      "delta": 2,
+      "confidence": "HIGH",
+      "class": "ASSESSMENT",
+      "driver": "Pakistan-Afghanistan front opens; Trump Khamenei threat",
+      "note": "Pakistan striking Afghan bases opens a second regional conflict front independent of the Iran war — conflict contagion is now documented. Trump publicly questioning Khamenei's survival on NBC is regime-decapitation language from a sitting US president, eliminating any remaining diplomatic off-ramp with Tehran."
+    },
+    {
+      "name": "Financial / Economic",
+      "score": 94,
+      "delta": 1,
+      "confidence": "HIGH",
+      "class": "ASSESSMENT",
+      "driver": "WTI $98.71 flat; Erbil refinery halted; Riyadh intercepts",
+      "note": "WTI holds at $98.71 despite Erbil refinery shutdown and Saudi intercept operations — markets are not yet pricing full Kharg re-strike or Fifth Fleet engagement. Gold at $5,061.70 (+0.18%), silver +0.53%, VIX flat at 27.19 — institutional hedging present but no panic pricing. A confirmed second Kharg strike or Fifth Fleet engagement confirmation would force immediate upward revision."
+    },
+    {
+      "name": "Theological Convergence",
+      "score": 97,
+      "delta": 8,
+      "confidence": "MODERATE",
+      "class": "INTERPRETIVE",
+      "driver": "Netanyahu Messiah statement + Paula White axis",
+      "note": "All four traditions — Evangelical Christian, Messianic Jewish, Islamic, Orthodox Christian — pointing at the same geography with the same intensity simultaneously. No historical precedent for this convergence."
+    },
+    {
+      "name": "Third Temple / Al-Aqsa",
+      "score": 96,
+      "delta": 0,
+      "confidence": "HIGH",
+      "class": "INTERPRETIVE",
+      "driver": "Kohanim recruitment confirmed // Maximum reading",
+      "note": "Hegseth 2018 Jerusalem speech calling Third Temple reconstruction a miracle. IDF soldiers wearing Temple insignia. Ben-Gvir and Smotrich in cabinet with explicit Temple Mount agenda. Red heifers in Israel. Temple vessels built. Architectural plans drawn."
+    },
+    {
+      "name": "Information Warfare",
+      "score": 90,
+      "delta": 2,
+      "confidence": "MODERATE",
+      "class": "ASSESSMENT",
+      "driver": "FCC license threat executed; Netanyahu disinfo active",
+      "note": "FCC chair Brendan Carr formally threatened broadcaster license revocation over Iran war coverage — corroborated by NYT, MEE, and Investing.com. Netanyahu assassination disinfo required official PMO denial, confirming adversarial actors are running active prediction-market manipulation campaigns. Information warfare vector now at 90 — broadcast suppression, social media arrest, AI-targeting, and financial market manipulation all active simultaneously."
+    }
+  ],
+  "intel_cards": [
+    {
+      "title": "Israel formally warns US: interceptor stocks critically low — multi-source corroboration",
+      "timestamp": "2026-03-14T22:07:47+00:00",
+      "timestamp_label": "▲ CRITICAL // INTERCEPTOR DEPLETION CONFIRMED",
+      "class": "VERIFIED",
+      "severity": "CRITICAL",
+      "confidence": "HIGH",
+      "summary": "Israel has formally warned the United States that its ballistic missile interceptor stocks are critically depleted. Corroborated simultaneously by Semafor (original), MEE, MEMO/Anadolu, and Investing.com — all citing US officials. Israel entered this war already low on interceptors from last summer's conflict. With Iran firing sustained salvoes at Israeli cities and Eilat, the intercept math is deteriorating in real time.",
+      "source_label": "Semafor / Middle East Eye / MEMO / Investing.com",
+      "source_url": "https://www.middleeasteye.net/news/iran-war-israel-tells-us-its-running-low-missile-interceptors",
+      "source_type": "media report",
+      "published_at": "2026-03-14T22:07:47+00:00",
+      "retrieved_at": "2026-03-14T20:42:01+00:00",
+      "analyst_note": "This is the single most operationally significant development in the current cycle. Interceptor depletion is the variable that converts a manageable air war into an existential threat for Israeli population centers. If Iran detects or assesses that intercept capacity is failing, it has every incentive to surge missile volume before US resupply arrives. Watch for emergency US military airlift of THAAD or Arrow interceptors as the next confirming signal. Failure to resupply within 48-72 hours changes the entire escalation calculus."
+    },
+    {
+      "title": "IRGC claims direct strikes on US Fifth Fleet infrastructure in Bahrain and Kuwait",
+      "timestamp": "2026-03-14T23:41:49+00:00",
+      "timestamp_label": "▲ CRITICAL // FIFTH FLEET STRUCK — ASSESSMENT",
+      "class": "ASSESSMENT",
+      "severity": "CRITICAL",
+      "confidence": "MODERATE",
+      "summary": "Iran's IRGC claims missile and drone strikes on US military bases in Bahrain and Kuwait, including facilities linked to the US Navy's Fifth Fleet at Manama. Statement via Sepah News, published by Middle East Eye. US DoD confirmation pending. If verified, this is the first direct IRGC strike on Fifth Fleet command infrastructure — not a proxy attack, a declared state action.",
+      "source_label": "Middle East Eye / Sepah News",
+      "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-revolutionary-guards-say-they-struck-us-bases-bahrain-kuwait",
+      "source_type": "media report",
+      "published_at": "2026-03-14T23:41:49+00:00",
+      "retrieved_at": "2026-03-14T20:42:01+00:00",
+      "analyst_note": "NARRATIVE MONITOR flag: Sepah News is IRGC's own media arm — treat claim as ASSESSMENT until DoD confirms or denies. However, the operational logic is consistent: Fifth Fleet at Manama is the command backbone for Hormuz enforcement operations. Striking it signals Iran is willing to absorb the escalation cost of hitting US command infrastructure directly. If confirmed, US retaliatory authorization within 12-24 hours is the expected response. This would be the trigger event for full US-Iran state-on-state war, not proxy conflict."
+    },
+    {
+      "title": "Erbil refinery struck by drone halting operations; Saudi Arabia intercepts Iranian missiles and drones",
+      "timestamp": "2026-03-15T02:18:11+00:00",
+      "timestamp_label": "▲ CRITICAL // MULTI-STATE STRIKE EXPANSION",
+      "class": "VERIFIED",
+      "severity": "CRITICAL",
+      "confidence": "HIGH",
+      "summary": "A drone strike hit the Erbil refinery in Iraqi Kurdistan, causing a fire and halting operations. Separately, Saudi Arabia intercepted Iranian missiles and drones targeting key regions. Dubai's Ministry of Defence confirmed interception of 33 drones and 9 ballistic missiles in a single engagement window — sounds heard in Marina and Al Sufouh districts. The conflict footprint has expanded to Iraqi Kurdistan, Saudi Arabia, and UAE simultaneously.",
+      "source_label": "Jerusalem Post / Middle East Eye",
+      "source_url": "https://www.jpost.com/middle-east/iran-news/article-889921",
+      "source_type": "media report",
+      "published_at": "2026-03-15T02:18:11+00:00",
+      "retrieved_at": "2026-03-14T20:42:01+00:00",
+      "analyst_note": "Dubai intercepting 33 drones and 9 ballistic missiles in a single engagement is a saturation-attack data point — this is not harassment fire, this is a coordinated multi-vector barrage against Gulf state infrastructure. Erbil refinery shutdown adds Iraqi Kurdistan to the kinetic map. Saudi intercepts confirm Iran or proxies are targeting the full Gulf arc simultaneously. This multi-front simultaneous barrage is consistent with Iran attempting to overwhelm Gulf state air defenses before US resupply of interceptors arrives. Financial vector: Erbil refinery offline adds supply disruption pressure on top of WTI's $98.71 hold."
+    },
+    {
+      "title": "Trump threatens second Kharg Island strike, questions Khamenei's survival — NBC News",
+      "timestamp": "2026-03-15T02:15:26+00:00",
+      "timestamp_label": "▲ CRITICAL // REGIME DECAPITATION LANGUAGE",
+      "class": "VERIFIED",
+      "severity": "CRITICAL",
+      "confidence": "HIGH",
+      "summary": "Trump told NBC News the US may strike Kharg Island again, called Khamenei's survival uncertain, and dismissed current deal terms as insufficient. This is the first time a sitting US president has publicly questioned an adversary leader's survival during active hostilities in this conflict. Kharg Island handles approximately 90% of Iran's oil exports.",
+      "source_label": "Jerusalem Post / NBC News",
+      "source_url": "https://www.jpost.com/middle-east/iran-news/article-889922",
+      "source_type": "media report",
+      "published_at": "2026-03-15T02:15:26+00:00",
+      "retrieved_at": "2026-03-14T20:42:01+00:00",
+      "analyst_note": "Regime decapitation language from a US president on live television eliminates any remaining face-saving diplomatic off-ramp for Khamenei. Iran cannot negotiate under explicit public threat of leadership elimination — this statement functionally closes the negotiation window. A second Kharg strike would push WTI well above $100 and potentially toward the $119.48 war spike high. Watch for Iranian response escalation within 24 hours of this statement — the IRGC Fifth Fleet claim may already be the response."
+    },
+    {
+      "title": "Dubai intercepts 33 drones and 9 ballistic missiles — Gulf state air defenses under saturation pressure",
+      "timestamp": "2026-03-15T00:26:51+00:00",
+      "timestamp_label": "▲ CRITICAL // UAE AIR DEFENSE SATURATION",
+      "class": "VERIFIED",
+      "severity": "CRITICAL",
+      "confidence": "HIGH",
+      "summary": "UAE Ministry of Defence confirmed interception of 33 drones and 9 ballistic missiles in a single engagement. Sounds heard in Dubai's Marina and Al Sufouh districts — civilian population areas. Dubai Media Office confirmed the sounds were air defense intercepts. This is the largest single-engagement intercept count reported for a Gulf state in this conflict cycle.",
+      "source_label": "Middle East Eye / Dubai Media Office",
+      "source_url": "https://www.middleeasteye.net/live-blog/live-blog-update/dubai-reports-successful-air-defense-interceptions-after-loud-sounds",
+      "source_type": "media report",
+      "published_at": "2026-03-15T00:26:51+00:00",
+      "retrieved_at": "2026-03-14T20:42:01+00:00",
+      "analyst_note": "42 total inbound threats intercepted in one UAE engagement window is a saturation-attack signature. Dubai is a global financial hub — if even one ballistic missile penetrates UAE air defenses, the economic and psychological impact on Gulf state stability is severe. This engagement, combined with Saudi intercepts and Erbil refinery strike, confirms Iran and proxies are running a coordinated multi-vector barrage across the full Gulf arc. F1 race cancellations in Bahrain and Saudi Arabia are a lagging indicator — the security environment is already beyond civilian event viability."
+    },
+    {
+      "title": "Pakistan strikes Afghan base after Taliban drones cross 'red line' — second regional front activating",
+      "timestamp": "2026-03-14T23:28:40+00:00",
+      "timestamp_label": "▲ HIGH // CONFLICT CONTAGION — PAKISTAN-AFGHANISTAN",
+      "class": "VERIFIED",
+      "severity": "HIGH",
+      "confidence": "HIGH",
+      "summary": "Pakistan struck a Taliban base in Kandahar after Taliban drones hit Pakistani civilian areas and military sites. Pakistan's president declared a 'red line' crossed. This is an independent kinetic exchange between two nuclear-adjacent states, occurring simultaneously with the Iran-US-Israel war — conflict contagion is now documented beyond the Gulf theater.",
+      "source_label": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/14/pakistan-strikes-afghan-base-after-its-president-warns-red-line-crossed?traffic_source=rss",
+      "source_type": "media report",
+      "published_at": "2026-03-14T23:28:40+00:00",
+      "retrieved_at": "2026-03-14T20:42:01+00:00",
+      "analyst_note": "Pakistan is a nuclear-armed state striking targets inside Afghanistan while the Iran war burns simultaneously. This is conflict contagion — the regional security architecture is fracturing on multiple axes at once. Pakistan-Afghanistan escalation draws US attention and resources away from the Gulf theater and creates a second crisis requiring diplomatic management. If Pakistan-Taliban exchange escalates further, it pulls China (which has Taliban diplomatic relations) and potentially India into a parallel crisis track. Geopolitical Stability vector driver updated."
+    },
+    {
+      "title": "US Embassy Baghdad struck second time — Americans ordered to leave Iraq",
+      "timestamp": "2026-03-15T00:16:55+00:00",
+      "timestamp_label": "▲ HIGH // BAGHDAD EMBASSY SECOND STRIKE",
+      "class": "VERIFIED",
+      "severity": "HIGH",
+      "confidence": "HIGH",
+      "summary": "An Iran-backed militia struck the US Embassy in Baghdad for the second time. The US Embassy issued an emergency departure order for American citizens in Iraq. NYT and Jerusalem Post both confirm. This is the second direct strike on US diplomatic infrastructure in Iraq in this conflict cycle.",
+      "source_label": "NYT / Jerusalem Post",
+      "source_url": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel",
+      "source_type": "media report",
+      "published_at": "2026-03-15T00:16:55+00:00",
+      "retrieved_at": "2026-03-14T20:42:01+00:00",
+      "analyst_note": "Second embassy strike in Baghdad combined with a civilian evacuation order signals the Iraqi theater is no longer a peripheral front — it is an active kinetic zone for Iran-backed proxy operations. US diplomatic presence in Iraq is now functionally untenable. If the embassy is evacuated, the US loses its primary diplomatic and intelligence hub in the country most critical to Iran's land bridge to Syria and Lebanon. Watch for whether the US responds kinetically inside Iraq, which would trigger a constitutional crisis over War Powers authorization."
+    }
+  ],
+  "doctrine": {
+    "title": "Netanyahu Messiah Doctrine — Fully Documented",
+    "quote": "\"We will make it to the return of the Messiah, but this will not happen next Thursday.\"",
+    "quote_source": "— PRIME MINISTER BENJAMIN NETANYAHU // MARCH 12, 2026 // ACTIVE WARTIME STATEMENT",
+    "cards": [
+      {
+        "tag": "LUBAVITCHER PROPHECY",
+        "class": "INTERPRETIVE",
+        "text": "The late Rebbe Schneerson told a young Netanyahu 30 years ago: \"You will be the prime minister who passes the scepter to the Messiah.\" That prophecy is now circulating openly in Israeli media during active war."
+      },
+      {
+        "tag": "ACCELERATIONIST DOCTRINE",
+        "class": "INTERPRETIVE",
+        "text": "Netanyahu framed explicitly as an accelerationist — someone who could precipitate or force God's intervention in history. Kohanim (Temple priests) being actively recruited by his government for Temple service."
+      },
+      {
+        "tag": "HISTORIC SPIRITUAL MISSION",
+        "class": "INTERPRETIVE",
+        "text": "Netanyahu on record to i24: \"If you're asking if I have a sense of mission, historically and spiritually, the answer is yes.\" Accepted amulet of Greater Israel map saying \"This is my vision.\""
+      }
+    ]
+  },
+  "axis": {
+    "title": "Theological Command Axis — Fully Mapped",
+    "nodes": [
+      {
+        "title": "PAULA WHITE",
+        "body": "WH Faith Office Head\nMet Netanyahu Feb 4\nAppointed Feb 6"
+      },
+      {
+        "title": "HEGSETH",
+        "body": "SecDef / War Commander\nThird Temple speech 2018\n\"New capabilities\" promised"
+      },
+      {
+        "title": "TRUMP",
+        "body": "\"Anointed by Jesus\"\nper own commanders\nto troops"
+      },
+      {
+        "title": "SCOFIELD THEOLOGY",
+        "body": "Dispensationalism\nIsrael restoration =\nRapture precondition"
+      },
+      {
+        "title": "80M EVANGELICALS",
+        "body": "Believe they're\naccelerating Jesus's\nreturn via this war"
+      }
+    ]
+  },
+  "traditions": {
+    "title": "Four-Tradition Theological Convergence",
+    "rows": [
+      {
+        "tradition": "Evangelical Christian",
+        "status": "END TIMES ACTIVE",
+        "status_class": "critical",
+        "signal": "Paula White Faith Office // Hegseth Third Temple speech 2018 // Scofield dispensationalism // Trump described as anointed vessel to troops"
+      },
+      {
+        "tradition": "Messianic Jewish",
+        "status": "MESSIAH IMMINENT",
+        "status_class": "critical",
+        "signal": "Lubavitcher prophecy circulating openly // Kohanim being recruited for Temple service // Netanyahu accelerationist framing // \"Era of Messiah\" language active"
+      },
+      {
+        "tradition": "Islamic",
+        "status": "MAJOR SIGNS PRESENT",
+        "status_class": "critical",
+        "signal": "Al-Aqsa contested in active war // Regional conflict centered on Al-Quds // Financial system targeted // Laylatul Qadr this week // Dajjal-era deception characteristics present"
+      },
+      {
+        "tradition": "Orthodox Christian",
+        "status": "WATCHING",
+        "status_class": "high",
+        "signal": "Patriarch statements on holy sites // Russian Orthodox framing of conflict // Byzantine Rome parallel active in discourse // Third Temple = seat of Antichrist in Orthodox theology"
+      }
+    ]
+  },
+  "overlay": {
+    "title": "RAMADAN 1447 OVERLAY",
+    "subtitle": "DIVINE DECREE WINDOW — AL-QUDS CONTESTED IN REAL TIME — NO PRECEDENT IN MODERN ERA",
+    "description": "The Night of Decree — when divine destinies are written — falls this week inside an active regional war centered on Al-Quds and Al-Aqsa. The theological significance within the Islamic eschatological framework cannot be overstated. No Western analytical model is tracking this variable.",
+    "timeline": [
+      {
+        "date": "MAR 10",
+        "title": "Last 10 Nights Begin",
+        "description": "Prophet ﷺ tightened his waist belt, stayed up, and woke his family. Full ibadah mode.",
+        "state": "ACTIVE NOW"
+      },
+      {
+        "date": "MAR 16",
+        "title": "27th Night",
+        "description": "Most likely Laylatul Qadr. Night the Quran descended. Better than 1,000 months.",
+        "state": "PEAK"
+      },
+      {
+        "date": "MAR 19",
+        "title": "Last Night — 3/19",
+        "description": "Night of wage payment. Prophet ﷺ: \"The workers receive what they earned.\" Recurrent signal date.",
+        "state": "FINAL"
+      },
+      {
+        "date": "MAR 20",
+        "title": "Eid ul-Fitr 1447",
+        "description": "Ramadan sealed. Whatever was written, was written.",
+        "state": "WATCH"
+      }
+    ]
+  },
+  "info_warfare": {
+    "title": "Information Warfare — New Vector",
+    "cards": [
+      {
+        "tag": "ADL — LLM LOBBYING",
+        "class": "ASSESSMENT",
+        "text": "ADL published comprehensive bias report March 2025 explicitly lobbying to reshape AI responses on Israel. Claude, GPT, Gemini, Llama all targeted. 34,400 queries submitted. Calling on AI companies to change training data."
+      },
+      {
+        "tag": "KNESSET TESTIMONY",
+        "class": "ASSESSMENT",
+        "text": "ADL CEO Greenblatt testified before Israeli Knesset January 7, 2025 — American organization reporting to foreign parliament. Invoked Mossad pager operation as the model for information warfare strategy."
+      },
+      {
+        "tag": "CURRICULUM + PLATFORMS",
+        "class": "ASSESSMENT",
+        "text": "ADL education programs documented across K-12 curriculum. Wikipedia editors banned after ADL pressure. Social media declared 8th front of organized information campaign. All operating simultaneously."
+      }
+    ]
+  },
+  "market_sections": [
+    {
+      "title": "INDICES",
+      "rows": [
+        {
+          "label": "NQ (Nasdaq 100 Futures)",
+          "value": "24,929 ▼",
+          "direction": "bearish",
+          "class": "DATA"
+        },
+        {
+          "label": "ES (S&P 500 Futures)",
+          "value": "Flat / Cautious",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "Key Resistance NQ",
+          "value": "25,162",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "Pivot NQ",
+          "value": "24,757",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "S1 NQ",
+          "value": "24,264",
+          "direction": "neutral",
+          "class": "DATA"
+        }
+      ]
+    },
+    {
+      "title": "ENERGY",
+      "rows": [
+        {
+          "label": "WTI Crude (CL1)",
+          "value": "$85.32 ▲ +3.14%",
+          "direction": "bullish",
+          "class": "DATA"
+        },
+        {
+          "label": "War Spike High",
+          "value": "$119.48",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "Pivot Support",
+          "value": "$83–85",
+          "direction": "neutral",
+          "class": "DATA"
+        },
+        {
+          "label": "CPI Feb (released today)",
+          "value": "2.4% YoY ✓ In-line",
+          "direction": "bullish",
+          "class": "DATA"
+        },
+        {
+          "label": "War Cost / Day",
+          "value": "$2B+ (Murphy)",
+          "direction": "bearish",
+          "class": "DATA"
+        }
+      ]
+    }
+  ],
+  "triggers": [
+    {
+      "id": 1,
+      "text": "Iran bank-targeting declaration executed — first Gulf financial institution physically struck."
+    },
+    {
+      "id": 2,
+      "text": "Hormuz mining confirmed operational — tanker sunk or disabled, full closure triggered."
+    },
+    {
+      "id": 3,
+      "text": "Al-Aqsa physically threatened or accessed by Israeli nationalists during active war."
+    },
+    {
+      "id": 4,
+      "text": "Russia moves from intelligence-sharing to active military involvement."
+    },
+    {
+      "id": 5,
+      "text": "Iran deploys Fattah-2 hypersonic at scale — no proven intercept solution exists."
+    },
+    {
+      "id": 6,
+      "text": "US Congress invokes War Powers — or fails to, triggering constitutional crisis."
+    }
+  ]
+}
